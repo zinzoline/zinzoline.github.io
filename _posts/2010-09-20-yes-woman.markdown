@@ -1,0 +1,101 @@
+---
+layout: post
+status: publish
+published: true
+title: Yes woman
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: <p><em>Article réservé à un public averti, vocabulaire grossier, veuillez
+  quitter ce blog si vous n'êtes pas majeur... Non je plaisante...<br /></em><br><br>Oui
+  je suis célibataire, mais non,<strong> </strong>je ne suis pas libre. Comment ça
+  ça n'a pas de sens? Si vous saviez comme ça me saoule de devoir m'expliquer à ce
+  sujet, pas auprès de vous mes gentils lecteurs, mais auprès des autres, les vrais
+  gens, les gens IRL, avec du sang et des os. J'ai pas envie ! Comment avouer qu'on
+  aime toujours quelqu'un qui se fout royalement de notre existence? En fait on peut
+  avec des mots et des phrases accessoirement mais on n'a juste pas du tout envie<strong>
+  </strong>de le faire, parce que c'est pathétique et qu'on s'en veut de ne pas réussir
+  à détester "ce connard".  Et on se sent déjà plus bas que terre alors pas besoin
+  de le clamer sur tous les toits !</p>
+wordpress_id: 209
+wordpress_url: http://www.zinzoline.net/?p=209
+date: '2010-09-20 03:12:22 +0200'
+date_gmt: '2010-09-20 03:12:22 +0200'
+categories:
+- Amour toujours
+tags:
+- drague
+- homme
+- colère
+- célibat
+- avancer
+- haine
+- oubli
+comments:
+- id: 37
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2010-09-20 18:58:50 +0200'
+  date_gmt: '2010-09-20 18:58:50 +0200'
+  content: "<strong>@Karleman</strong> : Au moins tu as la certitude qu'elle ne t'aime
+    pas. J'aimerais bien dire la même chose. Enfin si je l'ai, peut être, mais ya
+    encore un \"mais\". Un putain de \"mais\". J'attends juste qu'il capitule celui-là,
+    ça m'enlèvera un boulet de la cheville.\r\n\r\nC'est qu'une question de temps
+    c'est sûr mais purée, une semaine m'a paru une année, j'ai pas envie d'affronter
+    le mois qui arrive. C'est comme une grande pièce vide, les pensées résonnent encore
+    plus. Alors je suis tentée de remplir vide, parait que la nature n'aime pas ça,
+    pour ne plus entendre toutes ces saloperies qui reviennent sans cesse.\r\n\r\nJe
+    me laisse encore quelques journées et après j'aviserais. Fuite en avant ou pas.\r\n\r\nTiens
+    le coup voisin, on est dans la même panade."
+- id: 38
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2010-09-20 16:30:13 +0200'
+  date_gmt: '2010-09-20 16:30:13 +0200'
+  content: "J'ai poussé un gros soupir en te lisant. C'est comme si tu lisais dans
+    mes pensées. Moi aussi (je sais je l'ai déjà dit) je connais une histoire difficile.
+    Elle ne m'aime pas, mais alors là, tu vois j'en suis sûr. Et moi je l'aime et
+    ce malgré toutes les saletés qu'elle me fait.\r\n\r\nSommes-nous maso ? Non. Tu
+    as un cœur, j'ai un cœur. Tu as raison, pas facile de passer à autre chose, comme
+    ça, en claquant des doigts. Les autres ne peuvent pas savoir. En fait, ils savent,
+    mais ils veulent se mentir. Genre, moi, non je ne souffre pas. Moi aussi je me
+    le dis. Et puis, son visage, sa voix... Enfin, toi tu vois ce que je veux dire,
+    tu comprends...\r\n\r\nPrends ton temps, tu as raison, on oublie pas comme ça.
+    Ça serait trop facile. Eh oui, ça fait mal eh oui, c'est tellement douloureux
+    qu'on croit qu'on va mourir.\r\n\r\nMais ne te déteste pas. Ce n'est pas ta faute.
+    Je te jure. En même temps, moi, je me dis la même chose que toi. On est con? Non,
+    même pas... On est malheureux, c'est tout... et c'est déjà beaucoup n'empêche...\r\n\r\nBon
+    courage et ne fais pas de bêtises.\r\n\r\nBonne journée, soirée, etc. Enfin tout
+    ça quoi..."
+- id: 39
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2010-09-20 20:30:52 +0200'
+  date_gmt: '2010-09-20 20:30:52 +0200'
+  content: "En fait, je ne suis sûr de rien la concernant... Juste que lorsqu'on aime
+    quelqu'un, on ne lui fait pas de vacheries. C'est pourtant ce qu'elle me fait...
+    et pourtant... je doute aussi, comme toi... L'optimisme négatif, ça aide...\r\n\r\nJe
+    t'invite à Eagle Pass, si tu veux...\r\n\r\nBonne soirée et courage. Toi aussi,
+    tiens le coup.\r\nUne bise (ça encourage)"
+image: "/assets/img/what_i_hate_about_you_by_Neostarfire55.png"
+---
+<p style="text-align: center;"><em>Article réservé à un public averti, vocabulaire grossier, veuillez quitter ce blog si vous n'êtes pas majeur... Non je plaisante...<br /></em></p>
+<p style="text-align: justify;">Oui je suis célibataire, mais non,<strong> </strong>je ne suis pas libre. Comment ça ça n'a pas de sens? Si vous saviez comme ça me saoule de devoir m'expliquer à ce sujet, pas auprès de vous mes gentils lecteurs, mais auprès des autres, les vrais gens, les gens IRL, avec du sang et des os. J'ai pas envie ! Comment avouer qu'on aime toujours quelqu'un qui se fout royalement de notre existence? En fait on peut avec des mots et des phrases accessoirement mais on n'a juste pas du tout envie<strong> </strong>de le faire, parce que c'est pathétique et qu'on s'en veut de ne pas réussir à détester "ce connard".  Et on se sent déjà plus bas que terre alors pas besoin de le clamer sur tous les toits !<a id="more"></a><a id="more-209"></a></p>
+<p style="text-align: justify;">"Mais oublie le". Ben tiens, oui allez, hop hop, poubelle, erase data, on vide la corbeille? Ben non bordel, ça marche pas comme ça ! Ca va faire une semaine demain, seulement une semaine, une semaine et ça y est? Je devrais avoir envie de "tenter", "tester"? Super l'argument commercial, désolée mais j'achète pas là. "Tu l'oublieras dans les bras d'un autre", ou pas ! Parce que j'ai pas envie des bras d'un autre ! C'est bon j'ai testé une fois, moi pas être bête, moi savoir ça pas marcher du tout. Enfin si ya genre peut être une petite chance de tomber sur un type génialissime (comme de gagner au loto) ! Mais au final on tombe sur quelqu'un de différent, pas mieux, qu'on aime pas ou pas assez, donc on ressort de là en se disant "Merde il me manque trop, c'est lui que j'aime et que je veux !". Et vas y que c'est encore plus douloureux après. Alors non ! Et puis là c'est pas possible !</p>
+<p style="text-align: justify;">Je peux pas ! Beurk, je peux pas. Ca me fait chier parce qu'au moment où j'écris ça dans ma tête ya une saleté de petite voix qui me veut du mal elle aussi et qui me dit : "Beurk? Lui ça l'a pas gêné poulette tu te souviens? Et il continue". Et rha putain tais-toi voix sadique qui veut me faire prendre du prozac ! Je sais, je sais, je sais que lui, lui c'est pas pareil, lui il ne m'aime plus, lui il a pu donner à une autre ce que j'avais, moi, sa copine depuis plus de trois ans. Comme si ça tournait pas en boucle dans ma caboche et qu'il fallait me le rappeler au cas où hein ! En plus maintenant je sais qu'elle fait très bien l'amour et qu'il la trouve mieux que moi. Une corde? Un tabouret? Non mais j'veux dire, personne pour me filer un coup de main là? Allo???</p>
+<p style="text-align: justify;">Du coup les hommes qui prennent les choses sur ce ton je les renvoie direct à la case départ sans toucher 20 000 francs. J'ai pas envie d'entendre ça, je préfère m'entourer de personnes qui ne cherchent pas à me forcer la main, à me faire avancer alors que je ne suis pas encore prête, qui veulent juste partager ma compagnie, qui m'apprécient sincèrement. Rien que ça déjà, j'ai du mal alors, zen, tout le monde se calme, ok? Ya pas de vente aux enchères ou de premier prix à remporter, fais chier ! Laissez-moi respirer ! Deux minutes, que je sorte la tête de l'eau ! Et le pire à entendre vous savez ce que c'est? "Toi célibataire [cf. une fille aussi jolie/intelligente/au choix]? Mais comment c'est possible?" Ben parce que mon copain m'a jetée comme une merde connard et qu'à priori un fille "comme moi" ça valait pas assez à ses yeux? Tu lui demanderas !</p>
+<p style="text-align: justify;">Je sais que ça parait ingrat voire prétentieux de dire ça mais en ce moment ça me saoule de me faire draguer. Je sais que c'est censé me flatter voire même me remonter "un peu" le moral. Et en plus je suis bien plus intéressante maintenant hein vu que je suis seule ! Mais quand j'aime quelqu'un je me fiche de plaire aux autres ! J'en ai pas besoin ! Et là, je ne plais plus à celui que j'aime, mais j'y peux rien je l'aime encore, conséquence : les compliments des hommes m'agacent. Et je veux qu'on me laisse tranquille ! Je ne suis pas prête ! Non je ne suis pas sexy, parce qu'il ne me trouve plus sexy ! Non je ne suis pas jolie, parce qu'il ne me trouve plus jolie ! Pour vous dire j'ai jamais supporté mes kilos imaginaires de fille et juste parce que la dernière fois qu'on s'est vus j'ai (cru &gt;&lt;) voir dans son regard et comprendre de ses mots qu'il me trouvait vraiment jolie comme ça, je me suis dit, mais genre très sérieusement, que je laisserais tomber cette idée de mincir. J'ai tellement eu l'impression d'être la plus jolie fille sur Terre à ce moment-là, je ne sais pas pourquoi. Quelle conne ! Oui c'est débile, tout ça est totalement stupide, mais je m'en fous, laissez-moi être la fille la plus débile de la terre, tant pis !</p>
+<p style="text-align: justify;">Les seuls hommes que je suis prête à fréquenter sont ceux qui ne cherchent rien ou ne le montrent pas. Ils n'ont qu'à faire semblant après tout. Oui, qu'ils m'emmènent en balade, qu'ils me parlent de leur vie, qu'ils me fassent rire avec des bêtises, qu'ils compatissent et m'écoutent parler de mon amour perdu et me tendent un mouchoir. Ces personnes-là je dois leur dire oui. Parce que je mens en disant que je ne l'attends pas. Bien sûr que si je l'attends ! Et c'est triste, et c'est nul. Lui il s'en fiche, il passe ses jours de congés et ses soirées avec sa nouvelle copine et moi... Moi quoi? Moi je suis une conne ! Je suis fidèle à une personne qui m'a déjà remplacée ! Ce n'est pas la chose la plus idiote du monde? Si, je le sais, tout le monde le sait et pourtant je suis encore là à attendre !</p>
+<p style="text-align: justify;">Et je ne dois plus l'attendre. Parce que je l'ai attendu aujourd'hui. Si si, j'ai honte, oh oui jetez moi des tomates, oui ! Je sais, c'est tellement stupide, jamais il ne serait venu, plus jamais, je le sais, je ne le verrais plus jamais. Mais... Mais? Rha, je me déteste, je le déteste. J'ai dit que j'avancerais, je dois le faire, je vais le faire, je me le promets et je vous raconterais. Il y a des gens qui ont envie de partager du temps avec moi et un peu de ma vie. A m'a fait très mal quand il m'a dit qu'on ne partageait rien, comme si j'étais inutile, que je n'avais rien à donner, rien à offrir, alors que pour moi le soucis venait du fait qu'on était juste pas suffisamment souvent ensemble et du coup ben en se voyant peu, on allait à l'essentiel : passer notre temps à s'aimer. Ah non, non, je ne veux pas penser à ça non plus !  Pas nos câlins ! Donc il m'a fait comprendre que je n'avais aucun intérêt en gros. Mais ce n'est pas vrai, je suis une fille intéressante, enfin, je pense? On passe des moments agréables en ma compagnie, je suis cultivée, j'ai de l'humour. Je ne suis pas parfaite mais ,enfin, je pense que les personnes qui recherchent ma compagnie sont sincères.</p>
+<p style="text-align: justify;">Faut pas que je commence à douter de tout le monde à cause de lui. Il voulait me blesser, il a réussi. Mais si lui pensait que je ne pouvais rien lui apporter, eh bien c'est qu'il n'était peut être pas capable d'apprécier ce que j'avais à lui offrir? Faut vraiment que je considère les choses de cette manière-là, en me disant que beaucoup de personnes aimeraient que je leur donne ne serait-ce qu'un peu de ce que j'avais à donner à A. Donc à partir de demain, enfin maintenant  vu l'heure, ben je sors. Je dis oui, j'accepte. Pas tous les jours, j'ai pas le temps non plus, mais au moins une fois par semaine. Je dis oui.</p>
+<p style="text-align: justify;">Et pourquoi à partir de lundi? (oui je sais on est déjà lundi). Ben je vais vous dire ! Et, je me donnerais une baffe juste après avoir écrit ça je le promets aussi, mais étant donné que je n'ai plus aucun espoir de le voir frapper à ma porte pour me faire un bisou, parce qu'il doit sûrement travailler, je sais plus, et oui bordel on s'en fout mais stop chut ça me passera quand mon putain de cœur aura compris qu'il ne veut plus de moi mais pas encore ! Donc, on respire, étant donné que techniquement je peux abandonner l'espoir de le voir et que je ne serais plus jamais au courant d'autres possibilités, et de toute manière plus le temps va passer, plus il va s'en foutre de moi, car ce sera plus sérieux avec elle ou il s'occupera avec d'autres pétasses, et puis parce que je ne pense pas qu'il me faxera son planning hein, je vais donc être obligée d'arrêter d'espérer le revoir un jour. Et<strong> </strong>j'ai tendance à faire des phrases à rallonge quand je suis pas bien ! Même à l'écrit mais ça me rassure, ça veut dire que c'est pathologique ! Ahhhhhhh !</p>
+<p style="text-align: justify;">Donc voilà, à partir de demain, seule toute la journée en plus faut que je tienne bon, je me donne comme mission de dire "oui", oui aux personnes gentilles qui s'intéressent sincèrement à moi (et j'ai pas dit celles qui veulent ou m'épouser ou me mettre sous leur couette ou pire les deux en même temps) et de toute manière j'ai pas le choix vu que j'ai perdu ce soir, dès qu'il a commencé à faire nuit, le dernier putain d'espoir fou et stupide qu'il me restait de l'entendre sonner à ma porte ! "Tu es toujours ma chérie, je t'aime encore". Chut chut, espoir de merde, saleté, saleté, connerie d'espoir à la con !</p>
+<p style="text-align: center;"><em>Je le déteste, je me déteste, je </em><em>le </em><em>déteste, je me déteste, je </em><em>le </em><em>déteste, je me déteste, je </em><em>le </em><em>déteste, je me déteste, je </em><em>le </em><em> déteste, je me déteste, je </em><em>le </em><em>déteste, je me déteste, je </em><em>le </em><em>déteste, je me déteste...</em></p>

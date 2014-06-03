@@ -1,0 +1,63 @@
+---
+layout: post
+status: publish
+published: true
+title: Patience
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: '<p>Je n''ai pas beaucoup de patience. La patience fait appel au raisonnable
+  et je ne le suis pas. Je suis impulsive. Voilà donc un exercice que je déteste au
+  plus haut point : attendre. Je sais que V a lu mon message. Mais pas de réponse
+  bien sûr. La question qui reste en suspens est donc "attendre oui mais combien de
+  temps". Mon instinct me pousse à clore les choses plutôt que de devoir patienter,
+  de couper les ponts de manière nette et précise. Je n''aime pas me sentir impuissante,
+  sans maitrise sur la suite des évènements. Ça ne servirait pas à grand chose de
+  tout briser au bout d''une demi journée, je sais, c''est trop empressé. Mais je
+  ne supporte pas ce silence.</p>'
+wordpress_id: 139
+wordpress_url: http://www.zinzoline.net/?p=139
+date: '2010-08-02 11:10:31 +0200'
+date_gmt: '2010-08-02 11:10:31 +0200'
+categories:
+- Amour toujours
+tags:
+- silence
+- attente
+- réponse
+- impuissance
+- fin
+- doute
+- question
+comments:
+- id: 118
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2010-10-05 08:39:41 +0200'
+  date_gmt: '2010-10-05 08:39:41 +0200'
+  content: "Il ne faut surtout pas te faire du mal. Ce n'est pas évident, je sais
+    bien. Mais laisse le temps faire son oeuvre.\r\nIl faut que tu réfléchisses. Ne
+    rien précipiter.\r\nBon courage et surtout ne fait pas de bêtises.\r\nBises\r\n\r\nPs
+    : j'espère que mon message passera car hier je n'ai pas pu poster mes commentaires."
+- id: 122
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2010-10-05 17:42:51 +0200'
+  date_gmt: '2010-10-05 17:42:51 +0200'
+  content: "<strong>@Karleman</strong> : Ça a l'air de passer sans soucis pour tes
+    messages. Je n'ai pas attendu mais en fait yavait rien à attendre donc sans regret.
+    Un petit flirt comme on peut en vivre, qui s'éteint aussi vite qu'il s'allume
+    \ :)"
+image: "/assets/img/wait_by_arayo.jpg"
+---
+<p style="text-align: justify;">Je n'ai pas beaucoup de patience. La patience fait appel au raisonnable et je ne le suis pas. Je suis impulsive. Voilà donc un exercice que je déteste au plus haut point : attendre. Je sais que V a lu mon message. Mais pas de réponse bien sûr. La question qui reste en suspens est donc "attendre oui mais combien de temps". Mon instinct me pousse à clore les choses plutôt que de devoir patienter, de couper les ponts de manière nette et précise. Je n'aime pas me sentir impuissante, sans maitrise sur la suite des évènements. Ça ne servirait pas à grand chose de tout briser au bout d'une demi journée, je sais, c'est trop empressé. Mais je ne supporte pas ce silence.<a id="more"></a><a id="more-139"></a></p>
+<p style="text-align: justify;">Je ressens toujours le besoin de clarifier les choses, aplanir, mettre les virgules et surtout les points finaux. Je ne supporte pas le flou artistique. C'est une des raisons qui me poussent à précipiter les choses, parce que je n'arrive pas à rester sagement spectatrice de la suite de l'histoire quand l'autre tient le crayon. Si mon ressenti est négatif, si la personne en face de moi reste immobile, j'entraine tout le monde vers le bas. Je pourrais porter l'histoire vers la cime mais c'est beaucoup plus risqué.</p>
+<p style="text-align: justify;">Objectivement je me donne une semaine. Une semaine, c'est horriblement long. Reste à m'occuper l'esprit, me retenir d'intervenir, étouffer les initiatives. C'est faisable, certes. Un peu comme l'arrêt de la cigarette, les premiers jours sont les plus difficiles. Mais quand on vit au présent, sans réussir à se projeter plus en avant que quelques heures, c'est difficile de décider d'une action immédiatement négative dans le but d'une hypothétique amélioration dans le futur. C'est quelque chose que j'ai beaucoup de mal à faire. Comme devoir mettre fin à une histoire d'amour parce que c'est un mal pour un bien. Moi ce que je vois c'est que tout casser, là, maintenant, c'est m'écorcher vive. Et je me fiche bien de ce que je serais supposée ressentir quelques jours ou quelques mois plus tard. Me faire mal et devoir supporter ça, c'est au-dessus de mes forces. L'avenir ne signifie rien, il n'a aucune valeur, personne ne peut dire si ce sera effectivement mieux ou encore pire. Alors je le prends rarement en compte dans mes décisions.</p>
+<p style="text-align: justify;">Non, me faire du mal immédiatement pour un bien être hypothétique, je ne sais pas faire et je n'aime pas. Mais je préfère largement ça à l'attente. Et là en l'occurrence je sais que je dois simplement attendre. Je pars donc pour quelques journées désagréables à souhait, entre espoir et désespoir, jusqu'à ce que je puisse clore ce petit chapitre de ma vie amoureuse. Ya pas à dire, l'amour ça suxx.</p>

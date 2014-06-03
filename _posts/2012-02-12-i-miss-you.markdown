@@ -1,0 +1,104 @@
+---
+layout: post
+status: publish
+published: true
+title: I miss you
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>La vie m'a offert des expériences amoureuses variées. J'ai aimé sans
+  me déclarer, sans souffrance, loin de la réalité, une relation qui n'existait que
+  pour moi. J'ai aimé la douleur de me donner et de ne pas être aimée. J'ai aimé comme
+  on aime son enfant, quand on aime plus que sa propre vie. J'ai aimé dans l'absence
+  plus que dans la présence, quand les sentiments se révèlent uniquement quand l'autre
+  s'éloigne. Et aujourd'hui?</p>"
+wordpress_id: 2230
+wordpress_url: http://www.zinzoline.net/?p=2230
+date: '2012-02-12 22:04:32 +0100'
+date_gmt: '2012-02-12 22:04:32 +0100'
+categories:
+- Amour toujours
+tags:
+- manque
+- distance
+- courage
+- addiction
+- absence
+- aimer ou ne pas aimer
+- I miss you
+comments:
+- id: 1775
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2012-02-13 09:34:27 +0100'
+  date_gmt: '2012-02-13 09:34:27 +0100'
+  content: "L'amour n'est jamais simple et je n'ai nul besoin de le prêcher à une
+    convaincue.\r\nTu l'aimes et cela se voit, se ressent dans ta façon de l'écrire.\r\nVous
+    pouvez vous voir, vous toucher, dormir ensemble, partager des tas d'activités
+    ensemble.\r\nEn tout cela, c'est beau.\r\nAvancez prudemment et de toute façon,
+    tu dois lui manquer toi aussi. \r\n\r\nTes textes sont toujours très beaux, chère
+    Zinzoline, et ils m'apaisent. Je pourrai être convaincu, un jour, que le bonheur
+    et l'amour existent.\r\n\r\nDes bises"
+- id: 1776
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2012-02-14 14:31:26 +0100'
+  date_gmt: '2012-02-14 14:31:26 +0100'
+  content: "MademoiZelle,\r\n\r\nLa phrase importante dans tout cela, la seule qui
+    vaille, c'est :\r\n\r\n\"La seule chose que je sais, avec certitude, c’est qu’il
+    me manque.\"\r\n\r\nAlors, pour la Saint-Valentin, c'est à dire aujourd'hui, faites-moi
+    plaisir, écrivez un nouvel article qui ne comporte que cette phrase-là...\r\n\r\nLe
+    reste... euh... c'est du bla-bla...\r\n\r\nL'amour c'est simple, car si c'était
+    compliqué cela ne marcherait jamais...\r\n\r\nRespirez... et, bon sang, lâchez
+    prise et profitez-en... vous l'aimez !\r\n\r\nEt ce soir, donnez lui tout le plaisir
+    imaginable ! \r\n\r\nTrès belle soirée à vous, MademoiZelle !\r\n;-)\r\n\r\nSilas..."
+- id: 1777
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2012-02-20 09:25:48 +0100'
+  date_gmt: '2012-02-20 09:25:48 +0100'
+  content: "<strong>@Karleman</strong> : Si mes textes t'apportent un peu d'espoir,
+    tu m'en vois comblée. Car c'est peut-être plus que je n'en ai moi-même. Nous avons
+    vécu de belles choses ensemble, nous en vivons et nous en avons probabalement
+    encore à vivre.\r\n\r\n<strong>@Silas</strong> : Navrée de ne pouvoir vous faire
+    plaisir. Je suis bien incapable d'écrire un tel article. Pour le moment en tout
+    cas. Vous dites que si c'était compliqué ça ne marcherait jamais. Je pourrais
+    vous répondre que si c'était simple ça marcherait toujours. Or... C'est loin d'être
+    le cas malheureusement..."
+- id: 1782
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2012-02-28 09:29:46 +0100'
+  date_gmt: '2012-02-28 09:29:46 +0100'
+  content: "Bonjour Zinzoline,\r\n\r\nExcuse-moi pour mes silences. Pas trop le moral
+    ces derniers temps. \r\nJ'espère que tu vas trouver le bonheur et la paix dans
+    ton coeur et ton esprit.\r\nJe t'embrasse.\r\nAmitié"
+image: "/assets/img/i_love_cookies_by_megson-d35x97f.jpg"
+---
+<p style="text-align: justify;">La vie m'a offert des expériences amoureuses variées. J'ai aimé sans me déclarer, sans souffrance, loin de la réalité, une relation qui n'existait que pour moi. J'ai aimé la douleur de me donner et de ne pas être aimée. J'ai aimé comme on aime son enfant, quand on aime plus que sa propre vie. J'ai aimé dans l'absence plus que dans la présence, quand les sentiments se révèlent uniquement quand l'autre s'éloigne. Et aujourd'hui?<a id="more"></a><a id="more-2230"></a></p>
+<p style="text-align: justify;">Aujourd'hui je ne peux plus dire je t'aime. Ou plutôt je ne veux plus prononcer ces mots. J'ai l'impression qu'ils me porteraient malheur. J'ai du mal à faire confiance à l'amour. Le mien déjà mais aussi celui de l'autre. A certains moments, je le ressens, un peu c'est comme si ces mots s'affichaient devant mes yeux "Je l'aime". Parfois j'aimerais avoir la liberté de partager cet amour, comme un "merci", un "je suis bien". Mais impossible. Et si je me trompais? Si je me laissais emporter par le moment? J'ai déjà vécu ça, croire que j'étais amoureuse d'un homme alors que je ne l'étais pas. La différence néanmoins était mon comportement. J'étais distante. Physiquement distante.</p>
+<p style="text-align: justify;">Mais en ce moment j'ai ce besoin d'« encore" quand on est ensemble, de "pas assez", un dernier baiser, encore un, prends moi dans tes bras, attends un peu, rien ne presse. Comme si chaque instant était compté, comme si le manque s'exprimait quand bien même il ne devrait plus se faire ressentir. Comme s'il me manquait déjà quand je suis avec lui. Qu'il me manquait pour tout ce qu'il m'avait manqué et pour tout ce qu'il me manquera bientôt.</p>
+<p style="text-align: justify;">J'ai même du mal à dormir en sa présence. Comme si le sommeil était un rabat-joie, je rechigne à m'endormir et me réveille toujours très tôt alors même que je pourrais dormir bien plus et faire la grasse matinée. Je ne veux pas le réveiller mais j'ai littéralement envie de lui sauter dessus, de me blottir, de l'embrasser, de lui parler.</p>
+<p style="text-align: justify;">Je crois qu'une bonne partie des hommes que j'ai connus diraient que je suis plutôt sauvage. Je me rends compte avec le recul que j'ai été froide pendant très longtemps avec mon ex. C'est après ce qui se compte en années, et après beaucoup de déchirements, que j'ai ressenti cette attraction irrésistible lors de notre dernière réconciliation. Je l'avais sûrement perdu trop souvent.</p>
+<p style="text-align: justify;">Mais là ce ne sont pas des années, même pas véritablement des semaines et pourtant je suis un aimant. Je m'exaspère moi-même quand je m'en rends compte parce que c'est parfaitement naturel et alors dès que je suis ma propre spectatrice je me gronde intérieurement. Vraiment, je vous assure, je suis très agacée. Une partie de moi est là en train de sermonner "Mais tu fais quoi là? C'est pas toi ça, pourquoi tu fais ça? Hein? Tu sais au moins pourquoi tu agis comme ça Zinzoline"? Et non. Je n'en sais foutrement rien c'est bien le problème.</p>
+<p style="text-align: justify;">Je me souviens qu'avant même qu'on soit ensemble, la première nuit où l'on s'est rapprochés, nous avions passé la soirée dans un bar et j'avais eu un drôle de sentiment. Je m'étais rendue compte que j'étais bien dans ses bras et j'avais de ce fait passé une bonne partie de la soirée contre lui alors même que nous n'étions que des amis. Cela m'avait surprise sans que je ne cherche néanmoins à m'attarder plus sur cette constatation. J'en avais juste souri, j'avais trouvé ça étrange et inhabituel. Et j'avais profité de ce moment.</p>
+<p style="text-align: justify;">Là je ne comprends pas. Je me revois aussi il y a de ça plusieurs années ayant décidé de partir quelques jours avec des amies et pleurant sur le quai de la gare serrant dans les bras mon copain car je n'allais pas voir la personne que j'aimais pendant une semaine, une personne avec qui pourtant je passais mes jours et nuits. Je me suis sentie une toute petite fille qui ne veut pas se séparer de sa maman. A l'époque j'ai assimilé cette douleur à la jeunesse. A un vide trop grand qui devait être rempli. Une enfance abîmée. Mais aujourd'hui pourquoi?</p>
+<p style="text-align: justify;">Nous ne sommes pas loin pourtant, géographiquement parlant. Nous sommes dimanche soir, nous nous voyons mardi soir. Il y a bien pire. J'ai vécu ma dernière relation à distance, une distance de plusieurs centaines de kilomètres et non pas deux changements de métro. Certes, l'absence était difficile à gérer les premiers jours de la séparation et en plus de ça nous savions que nous n'allions pas nous voir avant plusieurs semaines. Mais il me semble qu'étrangement je le ressentais moins fortement qu'aujourd'hui, ce qui n'a aucune logique. Peut être ai-je oublié ce que je ressentais à l'époque? C'est possible aussi. L'intensité s'émousse avec le temps.</p>
+<p style="text-align: justify;">Le fait est que c'est un plaisir douloureux. Et cela me perturbe. Je ne l'ai pas ressenti tout de suite, ça s'est installé petit à petit. Je n'ai rien vu venir. Un soir je me suis sentie de très mauvaise humeur et, réfléchissant, j'ai compris que c'était la séparation qui m'affectait plus que le reste. Et depuis ce sentiment ne m'a pas lâchée.</p>
+<p style="text-align: justify;">Qui plus est je sais les épreuves que l'on traverse quand tout s’effondre et qu'on ressentait un tel besoin de l'autre. J'ai vécu ça il y a un an. Tout mais pas ça. Si on me disait demain que c'est ce qui m'attend, je serais peut être capable de m'infliger la douleur de lui tourner le dos maintenant pour ne plus jamais revivre ça.</p>
+<p style="text-align: justify;">Alors j'aimerais réussir à prendre de la distance. J'ai tenté de lui expliquer, maladroitement. Car pour qu'il ne se méprenne pas, il aurait fallu qu'il comprenne ce qu'était ce "trop" que je ressentais. Mais comment exprimer ces choses-là? Et si ce sentiment disparaissait comme il est apparu? Je serais plus apaisée, sans pour autant être détachée. Alors pourquoi lui en parler? Et puis ça pourrait l'effrayer, il pourrait se dire que je m'attache beaucoup trop à lui et je serais bien incapable de me défendre ne sachant pas où j'en suis moi-même.</p>
+<p style="text-align: justify;">Impossible encore une fois. Alors nous nous sommes disputés car je n'ai pas pu tout lui expliquer et il n'a pas pu tout comprendre. Même si nous nous sommes réconciliés parce que ce n'était qu'une dispute entre deux personnes qui tiennent l'une à l'autre, il faut que je démêle tout ça.</p>
+<p style="text-align: justify;">Est-ce que j'ai changé? Est-ce ma nouvelle personnalité amoureuse? Est-ce hérité de mon passé? De mes échecs? Est-ce que c'est parce que je tiens à lui bien plus que je ne veux me l'avouer? Je sais que je suis très attachée à lui, oui je suis amoureuse. Mais Aimer... Est-ce que je me voile la face? Est-ce seulement possible?</p>
+<p style="text-align: justify;">Est-ce parce qu'en ce moment j'ai besoin d'une présence amoureuse, de tendresse, plus que d'habitude? Peut-être mais ce n'est même pas une question de void, de recevoir. Lui faire plaisir me fait plaisir. Prendre soin de lui. Le sentir bien.</p>
+<p style="text-align: justify;">Au final voilà beaucoup de questions auxquelles je ne suis pas encore capable de répondre.</p>
+<p style="text-align: justify;">La seule chose que je sais, avec certitude, c'est qu'il me manque.</p>
+<p style="text-align: justify;">

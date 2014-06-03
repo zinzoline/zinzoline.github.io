@@ -1,0 +1,188 @@
+---
+layout: post
+status: publish
+published: true
+title: Et un jour...
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>Relater les différentes étapes d'une descente en enfer est une expérience
+  intéressante. C'est un exercice que j'ai pratiqué, bien que j'aurais aimé ne pas
+  vivre cette (més)aventure amoureuse. Quoi que...</p>"
+wordpress_id: 2290
+wordpress_url: http://www.zinzoline.net/?p=2290
+date: '2012-03-12 23:36:37 +0100'
+date_gmt: '2012-03-12 23:36:37 +0100'
+categories:
+- Amour toujours
+tags:
+- espoir
+- croire
+- main
+- tomber amoureux
+- demain
+- et un jour
+- gagner la guerre
+comments:
+- id: 1786
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2012-03-13 09:08:24 +0100'
+  date_gmt: '2012-03-13 09:08:24 +0100'
+  content: "YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEESSSSSSSSSSSSSSSSSSSSSS !!!!!\r\n\r\nEnfin,
+    vous vous êtes lâchée ! \r\nCela fait du bien, non ?\r\n\r\nRien ne vaut la douceur,
+    la sensibilité... l'Amour !\r\nMaintenant, en avant, le regard bien droit, le
+    Bonheur arrive avec le vent portant.... Hissez la grand voile et vous serez bientôt
+    sous spi !\r\n\r\nA fond...\r\n\r\nEt n'oubliez jamais d'écrire, s'il vous plaît
+    !\r\n\r\nBelle vie à vous, magnifique DemoiZ'Aile !\r\n\r\nSilas ;-)"
+- id: 1787
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2012-03-13 14:39:02 +0100'
+  date_gmt: '2012-03-13 14:39:02 +0100'
+  content: "Voilà une belle nouvelle et une belle victoire.\r\nQue dis-je une belle
+    ? La plus belle, celle de l'Amour.\r\nTe voilà sur un nouveau chemin et il m'a
+    l'air tout à fait agréable à parcourir. \r\nBonne route douce amie :)"
+- id: 1788
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2012-03-14 08:57:37 +0100'
+  date_gmt: '2012-03-14 08:57:37 +0100'
+  content: "Tu es allée bien loin pour trouver ce qui devait être sous tes yeux depuis
+    le début.\r\n\r\nContent de voir que tu aies enfin réussi à mettre un pied en
+    dehors de ce \"passé\".\r\n\r\nEn espérant qu'il soit un Raphaël pour une Mélanie.
+    :yes:"
+- id: 1789
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2012-03-15 08:05:37 +0100'
+  date_gmt: '2012-03-15 08:05:37 +0100'
+  content: "<strong>@Silas</strong> : Je n'aime pas lâcher du lest mais oui ça fait
+    du bien. Je suis encore en retenue, même dans mes écrits. Mais le fait que cet
+    endroit soit protégé (et qu'il ne me lise pas) me donne plus de libertés.\r\n\r\nNe
+    nous emballons pas néanmoins, j'aurai peut-être le coeur brisé d'ici quelques
+    mois... Quoi que non, je ne l'accepterai pas, je suis une battante :yes: \r\n\r\nJ'évoquerai
+    d'ailleurs cette thématique dans mon prochain article. Il faut que je trouve un
+    peu de temps pour le rédiger.\r\n\r\n<strong>@Karleman</strong> : Merci Karleman,
+    je sème mes petits cailloux, au cas où... Si jamais tu cherches le chemin, n'hésite
+    pas à me suivre  *_* \r\n\r\n<strong>@M.R.</strong> : En fait il est apparu dans
+    ma vie en fin d'année. Même si l'amour me panique, je ne suis pas capable de laisser
+    partir une personne qui éveille mon intérêt. Je ne me suis donc jamais éloignée
+    de lui.\r\n\r\nEt en espérant oui, believe  :("
+- id: 1790
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2012-03-16 07:44:24 +0100'
+  date_gmt: '2012-03-16 07:44:24 +0100'
+  content: "MademoiZ'Aile,\r\n\r\nC'est vraiment cela, le principe du lest qu'on lâche
+    pour... prendre de la hauteur comme un aérostier... Comme un aérostier encore,
+    on fait chauffer la bulle d'air emprisonnée sous la toile grâce à cette belle
+    flamme bleue, celle de l'Amour... Paradoxalement c'est cet air chaud et doux généré
+    par la flamme, qui nous permet de nous élever au-dessus de nous même pour, à la
+    fois, profiter d'un air d'altitude plus frais et en même temps prendre la hauteur
+    nécessaire à une observation de soi plus objective... Le souffle chaud de l'Amour
+    pour accéder à l'air frais en hauteur, tout en restant libre dans une bulle bienfaitrice
+    et plus légère... Bientôt, il montera avec vous dans la nacelle... Profitez de
+    la vie, MademoiZ'Aile, vous êtes une vraie Luciole ! Douces pensées à vous et
+    à celui qui vous accompagne désormais... Belle Journée ! ;-)"
+- id: 1791
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2012-03-16 17:18:20 +0100'
+  date_gmt: '2012-03-16 17:18:20 +0100'
+  content: "Bien essayé le smiley :( mais je crois que j'ai assez donné sur ton blog,
+    je garde de bons souvenirs virtuels avec toi, mais de là à essayer d'écrire un
+    autre truc pour t'aider ou faire le zouave à nouveau, y a pas moyen  :lol: \r\n\r\nBon
+    courage ;)"
+- id: 1792
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2012-03-18 13:04:35 +0100'
+  date_gmt: '2012-03-18 13:04:35 +0100'
+  content: "<strong>@Silas</strong> : Merci, j'aime beaucoup cette métaphore Silas
+    \ :) \r\n\r\n<strong>@M.R.</strong> : Ça va pas mieux toi on dirait  :-x"
+- id: 1793
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2012-03-18 14:32:27 +0100'
+  date_gmt: '2012-03-18 14:32:27 +0100'
+  content: "Merci, chère Zinzoline, de semer des cailloux sur le chemin du bonheur.
+    Peut-être les trouverai-je un jour ? \r\nLorsque mon coeur sera en paix...\r\n\r\nLe
+    chemin que j'ai pris est moins beau, moins doux, il est vrai.\r\nMais je fais
+    avec et je continue mon \"odyssée\".\r\n\r\nContinue ta route, douce amie, et
+    qu'elle te soit la plus belle possible.\r\nDes bises"
+- id: 1794
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2012-03-19 16:07:51 +0100'
+  date_gmt: '2012-03-19 16:07:51 +0100'
+  content: "Mais si, je voulais juste voir ta réaction : désolé :roll: \r\nContent
+    de voir que tu n'es plus engluée dans le passé :wink: \r\nBonne route la Zinzoline
+    \ :yes:"
+- id: 1821
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2012-05-28 17:32:22 +0200'
+  date_gmt: '2012-05-28 17:32:22 +0200'
+  content: "Ce silence est assourdissant...\r\nJ'espère que vous vous portez à merveille
+    !\r\n\r\nMille pensées vers vous !\r\n\r\nUn chien toujours aussi utopiste...\r\nSilas,..."
+- id: 1822
+  author: Jo_D
+  author_email: eric.sturm@laposte.net
+  author_url: ''
+  date: '2012-06-11 00:21:42 +0200'
+  date_gmt: '2012-06-11 00:21:42 +0200'
+  content: "Bon comme l'on ne peut pas commenter la page \"Zinzoline\", je laisse
+    un com n'importe où :twisted: \r\nPour en venir à la substance de mon propos :\r\nJe
+    te conseille de lire Euclidiennes d'Eugène Guillevic, pour plus de métaphores
+    géométriques.\r\n\r\nAnd yet, I am out."
+image: "/assets/img/believe_by_mylandwonderland-d3gpyn5.jpg"
+---
+<p style="text-align: justify;">Relater les différentes étapes d'une descente en enfer est une expérience intéressante. C'est un exercice que j'ai pratiqué, bien que j'aurais aimé ne pas vivre cette (més)aventure amoureuse. Quoi que...<a id="more"></a><a id="more-2290"></a></p>
+<p style="text-align: justify;">Ce qui est sûr c'est que même si aujourd'hui, et je parle bien de ce jour précis (ou de cette nuit) car je pourrais changer d'avis, donc ce qui est sûr c'est que même si aujourd'hui j'ai la distance nécessaire pour oser envisager l'intérêt d'une interminable traversée du désert, je ne l'ai pas toujours eue. Et je pense que peu sont capables de voir la lumière au bout du tunnel quand le coeur a trop saigné.</p>
+<p style="text-align: justify;">Je vous propose donc de vous raconter une nouvelle histoire, celle de la sortie du no heart's land. Oh n'allez pas croire que je suis soignée, si seulement. Mais après être descendue, après être restée immobile, je constate le chemin parcouru. Cela mérite bien un article (ou plus) en espérant que ce récit sera pour certains une faible lueur de réconfort en attendant le levé du soleil.</p>
+<p style="text-align: justify;">Après ma rupture je me suis sentie parfaitement incapable d'aimer et ce pour plusieurs raisons. La première, évidente, est que je n'imaginais pas un jour ne plus aimer mon ex. Impossible donc de laisser à quiconque une place dans mon coeur. J'étais seule, abandonnée et condamnée à le rester car personne ne pourrait plus me toucher. Ça ne passerait pas, jamais.</p>
+<p style="text-align: justify;">Je pensais rester avec ce manque de lui, je me voyais grand-mère raconter à mes petits-enfants la dernière histoire d'amour de ma vie de jeune femme, une histoire avec une triste fin que je n'avais jamais réussie à surmonter. C'est objectivement idiot mais je suis certaine de ne pas avoir été la seule à ressentir un jour l'infini de ce vide et cette impression que cela ne s'apaisera jamais.</p>
+<p style="text-align: justify;">Oui je croyais que jamais personne ne pourrait le remplacer car personne ne serait jamais lui. Ce qui est exact. Mais il n'est pas question de remplacement en définitif. Pour moi il y a eu plusieurs étapes. Il y a eu lui. Abandonnée mais toujours à lui, incapable de me sentir libre et libérée, et sans même ressentir l'envie de quitter mes chaînes.</p>
+<p style="text-align: justify;">Puis il y a eu d'autres hommes, bien sûr. Des rencontres, des envies, des espoirs... Des feux de paille. Car me confronter à d'autres me rappelait inéluctablement qu'ils n'étaient pas lui, qu'ils ne le seraient jamais et que je ne serais plus jamais heureuse. Ces expériences peuvent être très cruelles car elles donnent l'atroce impression de retourner à la case départ alors qu'on désire avancer.</p>
+<p style="text-align: justify;">Quand en étant seule je retrouvais des forces, je n'ai jamais autant ressenti l'envie de retourner vers mon ex qu'après avoir passé un moment avec un homme que j'aurais sincèrement aimé... aimer. Et c'est cruel aussi pour celui qui vous fait face, quand un homme tient à vous, espère, attend et sent que vous lui échappez encore plus et que vous luttez contre les fantômes de votre passé, un passé qui vous manque terriblement. Ne pas réussir à supplanter l'ancien amour dans le coeur de celle qu'on convoite est une épreuve.</p>
+<p style="text-align: justify;">Mais au final ce sont peut-être des échecs salvateurs le long du chemin, c'est peut-être une façon de se renforcer malgré l'impression contraire que l'on en a. J'avais peut-être besoin de me mettre à l'épreuve, de me confronter au plus près à cette certitude que jamais je ne pourrais aimer à nouveau et qu'aucun homme ne me ferait ressentir un dixième de ce que lui avait éveillé en moi un jour. Peut-être oui, que c'est combattre le feu par le feu. Quand d'autres auront besoin d'une retraite loin de toute civilisation.</p>
+<p style="text-align: justify;">De toute manière si on écoute ses envies, on ne choisit pas son chemin et on ne peut pas se tromper. En tout cas j'aime à le penser.</p>
+<p style="text-align: justify;">Nous en sommes à deux étapes, et la troisième me direz-vous? Eh bien la troisième est une conséquence directe de la deuxième. Quand vous avez espéré un temps constater que vous saurez un jour passer à autre chose et que ce que vous avez vécu vous a convaincu du contraire, exit ces questionnements et ces considérations.</p>
+<p style="text-align: justify;">Passé ce moment, c'est un peu comme si vous aviez fait le deuil de votre vie amoureuse. En tout cas pour ma part je l'ai ressenti comme tel. Ok personne ne sera jamais à la hauteur de mon ex? Eh bien tant pis. Ça ne va pas m'empêcher de vivre. J'ai beaucoup de choses à faire pour moi, l'amour peut être mis de côté et y rester, je n'en serais pas moins heureuse.</p>
+<p style="text-align: justify;">Dans mon parcours post rupture, cette phase a du durer environ six mois (un an et demi de montagnes russes au total). Si je vous donne un repère temporel c'est pour que vous compreniez qu'à ce moment-là j'étais stable. Je n'étais pas faussement forte, je ne faisais pas semblant. J'avais recentré mon énergie sur me, myself and I.</p>
+<p style="text-align: justify;">Et les hommes? Des êtres humains comme les autres. Des amis potentiels. "Ne vous faites aucune illusion à mon égard, je n'ai rien à vous proposer de plus Messieurs. L'aquoi? Amour? Connais pas, j'ai oublié. On va boire un verre?". Vous savez ce que l'on dit? Que les choses arrivent quand on ne s'y attend pas. Non pas que je les attendais avant ça. Simplement j'étais méfiante.</p>
+<p style="text-align: justify;">Je me questionnais, je tâtonnais, j'hésitais. Je me demandais si je ne devais pas me laisser convaincre, si je ne devais pas laisser les hommes m'aimer, me réconforter, faire attention à moi. Je n'ai jamais cherché l'amour, mais chat échaudé craint l'eau froide. J'étais sur mes gardes tout en me demandant quelle devait être la ligne de conduite à tenir pour me sortir de ce marasme.</p>
+<p style="text-align: justify;">Comme je vous le disais à force de claques, j'ai juste arrêté de penser à tout ça. J'ai décidé de ne plus me préoccuper de ces questions, de ce que voulaient les hommes autour de moi, de ce qu'on attendait de moi. J'ai décidé que ce qui comptait c'était de mettre en oeuvre mes projets, de m'amuser, de profiter de mes amis et de ma famille. Et quand j'ai rencontré l'homme qui fait aujourd'hui partie de ma vie amoureuse, je l'avoue en toute franchise, je n'ai rien envisagé comme je n'envisageais rien avec personne malgré les intentions qu'on me prêtait régulièrement.</p>
+<p style="text-align: justify;">Alors quoi? J'ai été surprise. Il n'y a aucune chronologie. J'ai apprécié sa manière de s'exprimer, j'ai apprécié son regard sur les choses, j'ai admiré son intelligence, j'ai discerné de très belles choses en lui. C'est malheureusement rare que je m'arrête pour observer quelqu'un d'un peu plus près. Je conjugue exigence et impatience.</p>
+<p style="text-align: justify;">Lui a réussi à me donner envie de discuter, de partager un peu de ma vie, tout bêtement. Je me suis dit que j'avais fait là une rencontre intéressante, voilà une personne avec laquelle je prendrais sûrement plaisir à partager de mon temps.</p>
+<p style="text-align: justify;"><strong>Et un jour...</strong></p>
+<p style="text-align: justify;">Je me suis rendue compte que mon intérêt à son égard n'était pas aussi amical que je l'aurais voulu quand j'ai commencé à ressentir un véritable plaisir à être proche de lui, un apaisement. Et surtout, ces moments n'avaient jamais été parasités par de vieux souvenirs. En fait, pour la première fois depuis ma rupture, ces moments étaient uniques. Ils éclipsaient tout, ne pouvaient être comparés à aucun autre.</p>
+<p style="text-align: justify;">C'est là que j'ai compris que personne ne remplaçait jamais personne et que les choses n'étaient pas aussi simples. Que ce n'était pas uniquement le fait que je n'avais pas été prête pour les hommes que j'avais connus durant mon parcours, mais que c'était surtout qu'ils n'étaient pas lui. Lui, cet homme que j'avais envie d'avoir près de moi.</p>
+<p style="text-align: justify;">J'ai pris conscience que j'avais accès à une nouvelle palette de sentiments et de sensations. Le besoin oui, mais aussi l'envie et le manque, l'attente, la joie, le doute, la mélancolie, l'euphorie, l'espoir... Et quand je me suis rendue compte que tout ceci était lié à lui, l'envie de lui, le manque de lui, l'attente de lui etc., j'ai regardé en arrière sur les semaines passées et j'ai ouvert les yeux.</p>
+<p style="text-align: justify;">J'ai vu que j'avais été naïve avec ma douce amitié. Je me suis vue touchée sans réussir à reconnaître les signes précurseurs car j'avais tout fait pour mettre de côté cet aspect là de ma vie. Qui plus est, j'ai retrouvé une personne que j'avais perdue depuis longtemps. Une femme qui me semblait avoir disparu à tout jamais avec mon ex. Une femme douce, câline, sensible, vulnérable. Je savais sourire bêtement, pleurer pour un rien, m'énerver et oublier sur un simple baiser. Eh oui, moi, moi, je n'arrive pas à rester éloigner de lui, j'ai du mal à ne pas le toucher, je m'en veux d'ailleurs de me montrer aussi collante mais c'est irrépressible.</p>
+<p style="text-align: justify;">Amouquoi? Amoureuse? Oui, je suis tombée amoureuse, sans m'en rendre compte, sans y prendre garde. Pourtant je me suis défendue quand j'ai réalisé l'ampleur des dégâts. Si vous saviez, j'allais autant vers lui que j'essayais de rester à distance. Nous avons eu du mal d'ailleurs à nous retrouver. Et alors qu'au début de notre histoire j'étais encore très effarouchée, je me rends compte avec une horreur non dissimulée que mes sarcasmes s'effacent au fur et à mesure.</p>
+<p style="text-align: justify;">Laissez-moi encore quelques mois et la farouche opposante au mariage que je suis s'amusera à parier sur celle qui attrapera son bouquet... Si elle se mariait bien sûr... Ce qu'elle ne fera jamais... Quelle idée...</p>
+<p style="text-align: justify;">Ce ne sont pas mes principes qui sont remis en question, et d'ailleurs je suis réputée pour être une tête de mule de première catégorie, c'est juste que je m'attendris à mesure que je suis avec lui. Plus je le vois, plus je l'aime. Un peu comme si le reste me semblait bien moins important que le fait de me blottir dans ses bras.</p>
+<p style="text-align: justify;">Je m'attendris à mesure que je le regarde par-dessus mon épaule discrètement en pensant que je le trouve si mignon. A mesure que je fonds dès qu'il pose ses lèvres sur les miennes et que je ne peux réprimer un petit soupir de contentement quand mon coeur et mon corps en demandent encore plus.</p>
+<p style="text-align: justify;">Comme si petit à petit on transformait mon monde, que les fauteuils devenaient guimauves, que des petits ventilateurs diffusaient un parfum gourmand de vanille dans les rues de Paris.</p>
+<p style="text-align: justify;">Un an et demi de parcours du combattant. C'est peu et beaucoup à la fois. Et aujourd'hui je me rends compte de la force que j'ai gagné dans cette bataille et de celle que je gagne en étant à ses côtés, de celle qu'il m'insuffle à travers ce qu'il est, ce qu'il m'apporte, ce qu'il m'offre, ce qu'il me donne, ce qu'il partage avec moi.</p>
+<p style="text-align: justify;">Je ne veux pas penser qu'un jour je pourrais avoir à traverser des affres à la hauteur de ceux que j'ai connus avec mon ex. Je sais que c'est probable, je ne peux pas m'empêcher parfois d'y penser, d'avoir une trouille bleue de me ramasser, parce qu'il est trop tard, qu'il a volé mon coeur et que je m'en suis rendue compte quand le mal était déjà fait.</p>
+<p style="text-align: justify;">Alors je suis sans filet, je ne sais pas où nous allons. Mais je n'ai plus envie de lâcher sa main parce que oui, malgré tout, ça fait tellement de bien de pouvoir serrer la main de celui qu'on aime avant de s'endormir.</p>
+<p style="text-align: justify;">Sur ces belles paroles, je vous souhaite une douce nuit et beaucoup d'amour.</p>
+<p style="text-align: justify;">

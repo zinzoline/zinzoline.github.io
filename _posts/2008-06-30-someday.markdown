@@ -1,0 +1,47 @@
+---
+layout: post
+status: publish
+published: true
+title: Someday
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>Comment diable avons-nous pu en arriver là?<br />Pourquoi n'avons nous
+  pas été capables<br />De voir les signes que nous avons manqués<br />Et de changer
+  les choses?<br /> <br />J'aurais aimé que tu desserres tes poings<br />Et que tu
+  défasses ta valise.<br />Dernièrement il y a eu trop de tout cela<br />Mais ne crois
+  pas qu'il soit trop tard.<br /></p>"
+wordpress_id: 451
+wordpress_url: http://www.zinzoline.net/?p=451
+date: '2008-06-30 22:37:34 +0200'
+date_gmt: '2008-06-30 22:37:34 +0200'
+categories:
+- Poésies musicales
+tags:
+- fin
+- rupture
+- espoir
+- bientôt
+- disputes
+- un jour
+- croire
+comments: []
+image: "/assets/img/159__Just_Believe____by_AnotherDrama.jpg"
+---
+<p>Comment diable avons-nous pu en arriver là?<br />Pourquoi n'avons nous pas été capables<br />De voir les signes que nous avons manqués<br />Et de changer les choses?</p>
+<p>J'aurais aimé que tu desserres tes poings<br />Et que tu défasses ta valise.<br />Dernièrement il y a eu trop de tout cela<br />Mais ne crois pas qu'il soit trop tard.<br /><a id="more"></a><a id="more-451"></a><br />Tout va bien<br />Aussi longtemps que<br />Tu sais qu'un jour je...</p>
+<p>Un jour, d'une manière ou d'une autre,<br />J'arrangerai les choses mais pas maintenant.<br />Je sais que tu te demandes quand.<br />Tu es le seul qui sait que...</p>
+<p>Un jour, d'une manière ou d'une autre,<br />J'arrangerai les choses mais pas maintenant.<br />Je sais que tu te demandes quand.</p>
+<p>Eh bien j'aurais espéré que depuis le temps que nous en étions là de toute manière<br />Nous aurions pu finir par nous dire<br />Les choses que nous avons toujours eu besoin de dire.<br />Alors nous aurions pu arrêter de nous déchirer.</p>
+<p>Maintenant l'histoire s'achève ainsi<br />Comme dans un roman bon marché.<br />Réécrivons une fin mieux adaptée<br />A la place de ce scénario de film d'horreur.</p>
+<p>Tout va bien<br />Aussi longtemps que<br />Tu sais qu'un jour je...</p>
+<p>Un jour, d'une manière ou d'une autre,<br />J'arrangerai les choses mais pas maintenant.<br />Je sais que tu te demandes quand.<br />Tu es le seul qui sait que...</p>
+<p>Un jour, d'une manière ou d'une autre,<br />J'arrangerai les choses mais pas maintenant.<br />Je sais que tu te demandes quand.<br />Tu es le seul qui sache ça.</p>
+<div style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="258" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/t5Hd5VyO-9s?fs=1&amp;hl=fr_FR&amp;rel=0&amp;color1=0xcc2550&amp;color2=0xe87a9f&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="258" src="http://www.youtube.com/v/t5Hd5VyO-9s?fs=1&amp;hl=fr_FR&amp;rel=0&amp;color1=0xcc2550&amp;color2=0xe87a9f&amp;border=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></p>
+<p><strong><em>Nickelback - Someday</p>
+<p></em></strong></div>

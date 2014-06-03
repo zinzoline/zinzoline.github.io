@@ -1,0 +1,146 @@
+---
+layout: post
+status: publish
+published: true
+title: Gravity
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>Aujourd'hui je penserai à toi.<br />Aujourd'hui je m'y autorise.<br />Aujourd'hui
+  je n'oublie plus.<br><br>Je n'oublie pas.<br /></p>"
+wordpress_id: 1875
+wordpress_url: http://www.zinzoline.net/?p=1875
+date: '2011-05-11 00:00:25 +0200'
+date_gmt: '2011-05-11 00:00:25 +0200'
+categories:
+- Poésies musicales
+tags:
+- souvenirs
+- hey love
+- vienna teng
+- gravity
+- anniversaire
+- nous
+- lullaby
+comments:
+- id: 1619
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2011-05-11 07:12:48 +0200'
+  date_gmt: '2011-05-11 07:12:48 +0200'
+  content: "MademoiZelle,\r\n\r\nVous vous rappelez de \"Yes Woman\"...\r\n\r\n\"but
+    mostly,\r\ni hate the way\r\ni don't hate you.\r\n\r\nnot even close.\r\nnot even
+    a little bit.\r\nnot even at all \"\r\n\r\nAlors allez le chercher…, où qu’il
+    soit…, et montrez lui votre façon de l’aimer…\r\nApprenez-lui…\r\nMontrez lui
+    que la gravité n’est pas seulement un principe d’attirance, ou d’attraction univoque
+    d’un corps léger par un corps plus massif.\r\nMontrez-lui qu’elle est avant tout
+    une interaction et surtout, au final, une subtile combinaison issue de l’accrétion
+    de deux corps et de deux esprits…\r\nCette accrétion formera un nouvel astre bien
+    plus brillant que la somme des magnitudes de chacun des composants initiaux…\r\n\r\nEssayez…
+    n’abandonnez pas maintenant…\r\nL’amour et les sentiments que vous montrez dans
+    vos textes méritent que vous retrouviez ce terrain d’expérimentation inouï…\r\n\r\nSilas…"
+- id: 1622
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2011-05-12 17:35:18 +0200'
+  date_gmt: '2011-05-12 17:35:18 +0200'
+  content: "<strong>@Silas</strong> : Oui je m'en rappelle. Je trouve votre message
+    très beau, à la fois rassurant et triste. Rassurant car en vous lisant on se prend
+    à rêver que tout est possible. C'est doux. Ça fait du bien. J'aurais envie de
+    vous lire encore et encore. Mais tellement triste parce que l'amour n'est pas
+    une question de volonté.\r\n\r\nTous les efforts du monde ne vous rendront pas
+    aimable. Quel poids peuvent avoir les actes et les paroles sur le coeur? Sur le
+    véritable amour? Nous sommes aimés ou nous ne le sommes pas. Et je ne le suis
+    plus.\r\n\r\nJe ne me détourne jamais lorsque j'aime. Je l'aime toujours oui.
+    Et je suis toujours là. A l'aimer. En silence. Mais je n'ai pas la prétention
+    de pouvoir influencer une chose qui ne se décide en rien.\r\n\r\nMalheureusement."
+- id: 1623
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2011-05-14 10:20:58 +0200'
+  date_gmt: '2011-05-14 10:20:58 +0200'
+  content: "Dites à une femme vos sentiments et elle vous crucifix avec:\" mais pour
+    qui tu te prends, je crois que vous vous fourvoyez jeune homme\"\r\n\r\nAlors
+    messieurs, que doit-on faire?\r\n\r\nOption 1: Soit vous prenez vos jambes et
+    détallez à toute vitesse.\r\nOption 2: Soit vous la faites descendre de son piédestal,
+    et là bon courage...\r\nOption 3: Soit vous la flattez, et là bonjour la brique
+    que vous allez vous prendre\r\nOption 4: Soit vous jouer la carte de l'indifférence,
+    mais là, c'est un suicide assuré auprès de la gente féminine qui se repasse le
+    doux mot pour vous faire une réputation d'homo\r\n\r\nSinon option 5:\r\n\r\nVous
+    êtes inspiré pour la première fois de votre vie et vous tombez le truc bidule
+    chouette qui vous stimule le cortex émotionnel, si toutefois, vous en avez un...
+    il va s'en dire...\r\n\r\nLa problématique n'est pas définie parce que de tout
+    façon, ce monde est injuste et elles ne manquerons aucune occasion de vous le
+    rappeler sans arrêt: la loi du phallus? mouais, la loi des talons aiguilles...
+    -_-'\r\n\r\n\" Et toi, oui, oui toi, le petit brun à lunette dans ton coin, viens
+    me parler...\r\n- Heu comment çà? Moi :!:\r\n- Oui toi, tu ne vois pas que je
+    ne suis qu'une pauvre jeune femme en manque d'amour\r\n- Heu non, vous avez votre
+    carte attestant du club des jeunes femmes épleurées sur vous que je puisse la
+    voir  :twisted: \r\n- Mais t'es trop bizarre toi (mode boudeuse)\r\n-  :-x Mais
+    t'es qui toi? \r\n- ah ah (gros sourire)\r\n etc etc etc...\"\r\n\r\nJe stop ici
+    parce que c'est ici le point crucial: messieurs, s'il y a bien une chose à ne
+    pas commettre comme erreur monumental c'est de rester bouche bée face à un sourire
+    charmeur.\r\n\r\nEt de ne surtout pas acter comme un manchot de la garde des royalement
+    encombrant parce que si vous en êtes réellement un comme je suis, je puis vous
+    témoigner ma profonde sympathie d'une part mais surtout mes sincères condoléances...\r\n\r\nC'est
+    qu'un manchot de la garde des royalement encombrant ont une faiblesse: il y a
+    un bouton sur lequel on peut appuyer sans arrêt et presque quand on veut pour
+    s'assurer qu'il va vous trouver une solution et le tout à chaque fois de manière
+    imprévisible c'est qui le rend vraiment attachant...  :kiss: \r\n\r\nEt là, je
+    le dis, compagnon manchot de l'honorable garde des royalement encombrant, je demande
+    un soulèvement parce que je trouve notre condition injuste.\r\n\r\nAlors pour
+    répondre à cette petite pique:\"la chose ...\"\r\n\r\nEt bah la chose, çà fait
+    3 jours qu'elle avait compris qu'elle était traumatisé par un évènement liée à
+    son enfance...\r\n\r\nEt qu'en ce moment, Il fait un travail sur lui-même et son
+    environnement physique pour influer sur sa vie.\r\n\r\nIl t'a même écrit un poème
+    pour tout expliquer mais Il t'avertit qu'Il avait fait des études supérieurs en
+    sciences physiques qu'il n'a pas pu achever du fait de son traumatisme et qu'il
+    vient à peine de se rendre compte que c'est un artiste contrarié et qu'Il va s'orienter
+    vers une carrière professionnelle en adéquation avec son authenticité de vie et
+    blablabla :kiss: \r\n\r\nPar contre, Il risque de te surprendre parce qu'Il t'a
+    cerné, il y a quelques jours...\r\n\r\nAlors pour te répondre Wild Thing avec
+    un poème douteux parce qu'on peut certainement faire mieux, voici:\r\n\r\n\"Hey
+    Wild Child  :kiss: \r\nJe ne suis pas forgé, ni taillé,\r\nComme l'une de tes
+    parures préférées,\r\nJe ne te dessinerai pas ces mots,\r\nComme tu l'entends
+    ou dicterais,\r\nVoire \"Subliminalerais\",\r\nTu as réussi à me pardonner,\r\nOk,
+    \"Franglicherie\" osée,\r\nD'écho te revoilà Narcisse,\r\nCà m'enchante et me
+    plais,\r\nMais de là à dire qu'une chose se doit de décider, :?: \r\nC'est pas
+    toi qui disais que c'était d'une sur réalité,\r\nHélas, oui, à moi, de te la jouer
+    Narcisse,\r\nMa mémoire enfin retrouvée,\r\nJ'aspire à davantage de finallité,\r\nD'être
+    dans mon authenticité dans cette Réalité,\r\nDepuis ce Hier, j'ai quelques projets,\r\nMais,
+    je les sens trop absconds,\r\nPour que tu puisses te faire niaiser,\r\nAlors autant
+    être un connard et un canard marginalisé,\r\nQu'être matérialisé dans ta vie pleine
+    de destinée,\r\nEt te faire sans arrêt,\r\nDevant chacune de mes adversités faux
+    bonds\"\r\n\r\nPoème titré: Réalité d'un manchot de la garde des Royalement Entêté
+    \ :-x \r\n\r\nEt là, messieurs, vous êtes sûr que soit vous avez ferré votre poisson
+    ou que soit vous l'avez fait fuir une bonne fois pour toute: de toute façon qu'importe
+    l'issue, il suffit de vous dire qu'Elle ne vous mérite pas.  :-D \r\n\r\nps:\r\n\r\nEntre
+    Toi et Moi ou Moi et Toi, j'ai beau réfléchir à comment je pourrais être avec
+    une jeune femme comme toi, vu mon état de santé déplorable (hélas oui, je fume
+    depuis l'âge de 20 ans).\r\n\r\nC'est surtout cela qui me préoccupe le plus ces
+    derniers temps.\r\n\r\nOops c'est vrai, réponse typique de femme non intéressée,
+    mais qui me parle. :-x  \r\n\r\n:kiss: \r\n\r\nCa vous a fait rire, tant mieux
+    c'était le but.\r\n\r\nRideau\r\n\r\nEt je m'en retourne à mes occupations..."
+image: "/assets/img/A_kiss__by_spineroses.jpg"
+---
+<p style="text-align: center;">Aujourd'hui je penserai à toi.<br />Aujourd'hui je m'y autorise.<br />Aujourd'hui je n'oublie plus.</p>
+<p style="text-align: center;">Je n'oublie pas.<br /><a id="more"></a><a id="more-1875"></a><br />Le premier sourire.<br />Le premier baiser.<br />Le premier frisson. </p>
+<p>Le premier amour.</p>
+<p style="text-align: center;">Un amour unique.<br />Un unique amour.</p>
+<p style="text-align: center;">I miss us so much.<br /> You have been a fuckin idiot my love.</p>
+<p style="text-align: center;"><em>Hey love</em><em><br /> </em><em>Est-ce là le nom que tu es censé porter</em><em><br /> </em><em>Dont je dois t’appeler ?<br /> </em><em><br /> </em><em>Regarde, amour</em><em><br /> </em><em>Ils ont cessé d'y croire</em><em><br /> </em><em>Ils ont détourné nos histoires de la douce chute</em><em> </em></p>
+<p style="text-align: center;"><em>Mais ne les crois-tu pas toi aussi ?</em><em><br /> </em><em>Ne bois-tu pas également leur poison ?</em><em><br /> </em><em>Voilà les cicatrices que ces mots ont gravé</em><em><br /> </em><em>En moi</em><em> </em></p>
+<p style="text-align: center;"><em>Hey love</em><em><br /> </em><em>C'est le nom que nous avons longtemps retenu</em><em><br /> </em><em>Du coeur de la vérité</em><em> </em></p>
+<p style="text-align: center;"><em>Alors ne te détourne pas maintenant</em><em><br /> </em><em>Je tourne en révolution</em><em><br /> </em><em>Voilà les cicatrices que le silence a gravé</em><em><br /> </em><em>En moi</em><em> </em></p>
+<p style="text-align: center;"><em>C'est le même endroit</em><em><br /> </em><em>Non, pas le même endroit</em><em><br /> </em><em>C'est le même endroit, mon amour</em><em><br /> </em><em>Non pas le même endroit où nous étions</em><em></p>
+<p> </em><em>Hey love</em><em> <br /> </em><em>Je suis un fidèle satellite</em><em><br /> </em><em>De ton soleil flamboyant</em></p>
+<p style="text-align: center;"><em>Mon amour</em><em><br /> </em><em>J'obéis à ta loi de gravité<br /> </em><em><br /> </em><em>C'est le destin que tu as gravé en moi</em><em><br /> </em><em>Ta loi de gravité</em><em><br /> </em><em><br /> C'est le destin que tu as gravé en moi</em><em><br /> </em><em>En moi<br /> </em></p>
+<p style="text-align: center;"><object width="400" height="257"><param name="movie" value="http://www.youtube.com/v/X8nypWKa_aU?fs=1&amp;hl=fr_FR&amp;rel=0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="400" height="257" src="http://www.youtube.com/v/X8nypWKa_aU?fs=1&amp;hl=fr_FR&amp;rel=0" allowfullscreen="true" allowscriptaccess="always"></embed></object></p>

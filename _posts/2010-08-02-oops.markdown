@@ -1,0 +1,64 @@
+---
+layout: post
+status: publish
+published: true
+title: Oops !
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>Un des gros désavantages d'un caractère passionné et évoluant au fil
+  des émotions est par définition son instabilité. Cela peut aller d'une simple hypersensibilité,
+  à un lunatisme marqué, de la cyclothymie handicapante voire même, soyons fou, de
+  la bipolarité avérée. Quoi qu'il en soit me voilà encore une fois plongée dans les
+  affres de la culpabilité à cause de mes émotions.</p>"
+wordpress_id: 133
+wordpress_url: http://www.zinzoline.net/?p=133
+date: '2010-08-02 10:29:21 +0200'
+date_gmt: '2010-08-02 10:29:21 +0200'
+categories:
+- Amour toujours
+tags:
+- oups
+- erreur
+- regrets
+- honte
+- déclaration
+- impulsivité
+- culpabilité
+comments:
+- id: 24
+  author: B.
+  author_email: molnar.julie@hotmail.fr
+  author_url: http://rienduttoupresk.canalblog.com/
+  date: '2010-08-02 19:25:48 +0200'
+  date_gmt: '2010-08-02 19:25:48 +0200'
+  content: "Je suis très capable d'être comme ça. Quant aux messages envoyés suivis
+    de \"oh, non, je n'aurais jamais dû écrire ça...\" c'est tout à fait mon style,
+    mais pour une raison obscure ou très simple, pas en ce moment. Alors en tout cas,
+    je veux bien te contaminer avec ma météomanie, mais je ne veux pas être contaminée
+    par toutes ces interrogations :)\r\n\r\nSinon vraiment ravie de découvrir un nouveau
+    blog !\r\nBonne continuation !"
+- id: 25
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2010-08-02 22:07:23 +0200'
+  date_gmt: '2010-08-02 22:07:23 +0200'
+  content: "<strong>@B.</strong> : Le plaisir de la découverte est partagé ! Loin
+    de moi l'envie de vouloir te contaminer, je ne suis pas cruelle  :-|  (quoi que)"
+image: "/assets/img/Oops__by_Lili_Vanilli.jpg"
+---
+<p style="text-align: justify;">Un des gros désavantages d'un caractère passionné et évoluant au fil des émotions est par définition son instabilité. Cela peut aller d'une simple hypersensibilité, à un lunatisme marqué, de la cyclothymie handicapante voire même, soyons fou, de la bipolarité avérée. Quoi qu'il en soit me voilà encore une fois plongée dans les affres de la culpabilité à cause de mes émotions.<a id="more"></a><a id="more-133"></a></p>
+<p>Peu avant que V parte et malgré un week-end chaud/froid, j'ai eu une phase de positivisme aigu. Sachant que nous ne serions pas seuls sur le chemin de la gare et que de toute manière je risquais de ne pas aborder les questions qui me taraudaient, j'ai décidé de lui envoyer un message via internet qu'il aurait à son arrivée. Déjà l'attention en elle-même est particulièrement "choute" et objectivement déplacée et non méritée. Qui plus est mon excès de positivisme m'a clairement desservie au moment de la rédaction, notamment concernant le choix de mon vocabulaire. Si bien que quelques heures après, une fois les émotions décantées, eh bien j'ai royalement regretté mon geste, voyant à quel point j'avais grossi le trait. Pris au premier degré, c'est juste une catastrophe annoncée.</p>
+<p>Étant partagée à son sujet entre plusieurs discours et n'ayant pas, vous l'avez compris, reçu de réponses simples à des questions simples, j'ai au moment de la rédaction choisi de privilégier l'option la plus "happy end". Néanmoins cette option demandait que je prenne des torts (et j'ai toujours raison ofc) et que je me fragilise, comme si je ne l'étais pas déjà assez. Bref, que je courbe le dos. Mauvaise idée, très mauvaise idée. Je n'ai absolument pas besoin de me mettre encore plus à découvert que je ne le suis déjà, sachant qu'il est bien tranquille dans sa tour d'argent. A plusieurs reprises il a évoqué mon instabilité émotionnelle ("tu ne sais pas ce que tu veux, tu es toujours négative, tu me démotives") notamment au sujet de A et un manque de confiance de ma part ("tu ne me fais pas du tout confiance, tu en arrives à me faire douter de moi, de mes capacités à gérer une relation de couple"), pour l'essentiel. J'ai donc pris les choses à mon compte et décidé, au lieu de tirer cette histoire vers le bas (je suis maîtresse en détricotage et en prêchage de faux), de partir du postulat que tout ce qu'il m'avait dit était vrai et ce même si les actes ne concordent pas.</p>
+<p>Me voilà donc en train de lui clamer que j'ai confiance en lui, de le rassurer sur la personne avec qui j'ai envie d'être ("Je te veux toi", tout en finesse en plus). Et bien sûr je n'ai pas pu m'empêcher d'ajouter un "mais j'ai besoin de savoir si tu me veux toi, si tu m'aimes". Rien que ça ! Ce que j'ai essayé tant bien que mal de modérer par des "blagues de drague" qu'il m'avait dites du style "veux-tu toujours me faire des bébés?". Le smiley à la fin de ma tirade n'aura pas du tout suffit à sauver la mise. Bien sûr j'ai trouvé de bon ton de terminer par des "bisou, tu vas me manquer, je pense à toi". OUF, évidemment je n'ai pas mis de "je t'aime" mais en même temps j'étais plus à ça près.</p>
+<p>Donc failed, très joli failed d'ailleurs. A part passer pour une amoureuse transie, ce que je ne suis absolument pas à l'heure actuelle, je n'ai pas vraiment fait avancer mon affaire. Sachant en plus que je n'ai pas résisté à l'envie de demander... HEIN POURQUOI DIS MOI? Excès de positivisme quand tu nous tiens. Bilan? Mauvais, très mauvais. Au pire il va mettre fin à notre pseudo relation en prenant des gants pour ne pas blesser mon petit cœur fragile &gt;&lt; génial, au mieux il n'osera rien dire et essaiera de se sortir de ce piège.</p>
+<p>Non, l'option "mais oui je te veux, je t'aimeuh, partons vivre sur une île déserte" n'est pas envisagée et envisageable. Tout simplement parce que rien dans son attitude ne pourrait laisser supposer une inclinaison de la sorte. Au contraire. Enfin, il est indéchiffrable. Souvent syndicalement correct, comme s'il n'osait pas dire non. Mais voilà ça manque cruellement de... fougue, d'envie, de passion, de sentiments. Pourtant il ne m'avait absolument pas paru être une personne qui n'a pas les corones de dire ce qu'il pense quand il faut. Et moi pour le coup je ne suis pas du tout du genre intimidante et qui prend les devants. Je ne pomprends pas !</p>
+<p style="text-align: justify;">En attente de réponse donc, peut être que je n'en aurai pas non plus. Un moment faut se dire que pas de réponse = une réponse en soi. Après tout, peu importe les raisons que peut avoir une personne d'expliquer son incapacité à retenir l'attention de celle qui l'intéresse, qui ne rassure pas et laisse douter, et donc à terme qui laisse l'autre prendre les jambes à son cou. Ya un bug mais lequel? Je ne sais pas, mais ya un bug. Et si on ne peut pas le résoudre via une discussion à cœur ouvert, alors ça buggera non stop. Et franchement ça donnera quoi? A part une relation frustrante et absolument pas épanouissante?</p>
+<p>Je commence donc à envisager ma réponse à sa réponse (oui j'imagine en me basant sur... de l'imaginaire). Ou plutôt ma réaction. Tout ceci en comptabilisant les points, voyant ma défaite se profiler avec un écart de scores absolument pas rattrapable et à mon total désavantage. Je ne sais pas si je pourrai sauver l'honneur. En même temps le largué part avec un gros désavantage sur le larguant. Peut être que je m'en tiendrai à un simple "Ok", laissant en berne notre relation foetus. Qui sait, peut être qu'à son tour il sera frustré de ne pas recevoir plus d'explications. Ou peut être qu'il s'en foutra. Probable. Je pourrais aussi ne pas répondre tout simplement et tirer un trait sur tout ça. Mais ce serait prendre le risque d'afficher une réaction taggée "rageuse" qui me desservirait. Et à ce stade on sauve l'égo, comme les meubles, vu qu'il ne reste plus grand chose, donc ce sont des considérations importantes même si elles pourraient paraitre futiles.</p>
+<p>Notez la différence d'humeur entre mon message bisounours et cet article quelques heures plus tard. Ça me ferait peur moi-même si je n'avais pas l'habitude d'être convaincue d'une chose puis de son contraire, uniquement parce que mon ressenti évolue et varie selon les micro incidents qui s'accumulent. On verra bien. Wait and see. Mais franchement j'ai pas du tout envie de voir la suite...</p>

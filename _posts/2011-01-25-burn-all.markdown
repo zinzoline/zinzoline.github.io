@@ -1,0 +1,284 @@
+---
+layout: post
+status: publish
+published: true
+title: Burn all
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>Je suis fatiguée de douter. J'ai tendance à penser que lorsque l'on manque
+  de confiance en l'autre cela vient souvent d'un manque de confiance en soi. Souvent.
+  Donc pas toujours. Parce qu'honnêtement ma confiance en moi se porte à merveille.</p>"
+wordpress_id: 1693
+wordpress_url: http://www.zinzoline.net/?p=1693
+date: '2011-01-25 12:22:00 +0100'
+date_gmt: '2011-01-25 12:22:00 +0100'
+categories:
+- Amour toujours
+tags:
+- homme
+- vérité
+- doute
+- mensonge
+- burn
+- relation
+- feu
+comments:
+- id: 364
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2011-01-25 17:17:30 +0100'
+  date_gmt: '2011-01-25 17:17:30 +0100'
+  content: "Chère Zinzoline,\r\n\r\nCela semble ne pas aller très fort ces derniers
+    temps...\r\n\r\nVous doutez ? Vous avez une haute opinion de vous, cela est tout
+    à votre honneur, mais... vous doutez !\r\nSachez qu'il n'y a rien de plus désagréable
+    que quelqu'un qui ne doute pas, il (ou elle) devient pédant, imbu, orgueilleux,
+    conseilleur et puant...\r\nJe vous préfère dans le doute... enfin un peu... il
+    ne s'agit pas non plus de douter de tout et tout le temps...\r\n\r\nDes mots,
+    des mots, des mots... dites vous ?\r\nA vous lire, sur votre blog, depuis quelques
+    mois, je suppose que vous aimez écrire. Vous le faites d'ailleurs plutôt bien.\r\n\r\nMais
+    avez-vous imaginé écrire pour vous, rien que pour vous, avec un stylo et une feuille,
+    juste pour vous faire plaisir, simplement pour avoir l'envie de vous relire ?
+    Sans penser à la publication sur votre blog. Et puis écrire ailleurs que chez
+    vous... c'est à dire à des endroits où vous n'êtes pas seule, et d'où vous pouvez
+    observer les autres et la vie, en oubliant un peu la geekette solitaire qui sommeille
+    en vous...\r\nPensez à vous...\r\nEt si vous oubliiez votre blog quelques temps,
+    ou un peu plus longtemps, pour penser à vous et écrire pour vous ?\r\n\r\nAllez,
+    j'arrête de vous ennuyer... ;-)\r\n\r\nJe vous confie un p'tit bout de site que
+    j'aime bien pour l'idée qu'il donne de ce qu'est écrire... et être aussi... à
+    hauteur de soi et en toute humilité.\r\n\r\nJe vous embrasse... très fort ! \r\nBon
+    courage !\r\n\r\nhttp://www.avoodware.com/catalogue/lire/plus.html\r\n\r\nSilas..."
+- id: 371
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: http://chromandroide.canalblog.com/
+  date: '2011-01-26 12:32:45 +0100'
+  date_gmt: '2011-01-26 12:32:45 +0100'
+  content: "<i><strong> La haine </strong> \r\n\r\nPlus que de la colère,\r\nPlus
+    que de la rage,\r\nC'est un mot amère;\r\nQui peut remplir une page,\r\n\r\nEt
+    pourtant une fois écrit,\r\nTout est dit.\r\n\r\nC'est presque fini.\r\n\r\nC'est
+    peut être mieux ainsi.\r\n\r\nAu moins on évite le pire,\r\nCelui de mourir,\r\n\r\nDans
+    la haine de ceux qu'on aime...</i>\r\n\r\nps :\r\n\r\n\"Rien ne se perd, rien
+    ne se crée, tout se transforme...\"\r\n\r\nAujourd'hui, nous sommes le 26 Janvier
+    2011, et nous souhaitons à cette nouvelle femme qui vient de naître de trouver
+    son Éros dans les 365 jours qui suivent cette date."
+- id: 372
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2011-01-26 14:04:16 +0100'
+  date_gmt: '2011-01-26 14:04:16 +0100'
+  content: "J'ai souri quand tu as évoqué les deux hypothèses de mon espèce mâle  :)\r\nParce
+    que c'est plus compliqué que ça :) Il existe plusieurs spécimens :)\r\n\r\nConcernant
+    le fait de se dire les choses entre homme et femme, c'est vrai que c'est parfois
+    difficile. Poser des questions. Je pense que c'est la bonne solution et ce n'est
+    pas se rabattre. Quand le dialogue est instauré, la confiance l'est progressivement.
+    \r\nBien que parfois... on se trompe. Enfin, cas personnel...\r\n\r\nOui, pose
+    des questions et tu verras bien les réponses si elles te conviennent ou pas. Ainsi,
+    tu pourras en tirer les conséquences. Quant aux doutes, je pense que c'est humain.
+    Moi j'ai toujours des doutes sur tout et tout le monde... et quand je n'en ai
+    pas et bien c'est là que ça pose problème.\r\n\r\nAlors, cherche Zinzoline, cherche
+    ! Sonde le coeur de l'homme que tu aimes et apprend à le connaître.\r\n\r\nBon
+    courage. \r\nBises"
+- id: 373
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: http://chromandroide.canalblog.com/
+  date: '2011-01-26 14:24:25 +0100'
+  date_gmt: '2011-01-26 14:24:25 +0100'
+  content: "Trois hommes et une Zinzoline.\r\n\r\nIl faudrait écrire une pièce de
+    théâtre dessus :lol:\r\n\r\nLe romancier, le fou et l'historien pour conseiller
+    une jeune demoiselle en détresse  :lol:"
+- id: 374
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: http://chromandroide.canalblog.com/
+  date: '2011-01-26 14:25:57 +0100'
+  date_gmt: '2011-01-26 14:25:57 +0100'
+  content: C'est étrange parfois les rencontres virtuelles  :(
+- id: 375
+  author: M.R. , l'humilité s'impose ...
+  author_email: freerems@yahoo.fr
+  author_url: http://chromandroide.canalblog.com/
+  date: '2011-01-26 14:59:09 +0100'
+  date_gmt: '2011-01-26 14:59:09 +0100'
+  content: "<strong>Théorie de management de la vie de ses enfants ou de comment un
+    enfant de 16 ans a.k.a. shogun a.k.a. L'Arvaleur de feu est capable de transmettre
+    comme message...</strong>\r\n\r\nOn considère un modèle de la vie d'un être humain
+    comme étant un échiquier, avec un roi, une reine, un fou, un cavalier et une tour
+    (sachant que chacune des pièces F/C/T ayant une ambivalence) et que le reste du
+    monde sont des pions.\r\n\r\nChaque manière de jouer représente chaque facette
+    de la personnalité d'une personne face à un adversaire qui peut être soit soi-même,
+    soit un concurrent pour un Objet, soit un être divin ou virtuel dans sa lutte
+    contre le temps ou voire la quasi-totalité des concurrents mêmes.\r\n\r\nChaque
+    coups joué sont des actions au tour par tour: la problématique du tour...\r\n\r\nA
+    l'échelle d'une vie, doit-on considérer un tour comme une subdivision du temps
+    (années, jours, heures, minutes, secondes...)?\r\n\r\nA l'échelle d'une vie, doit-on
+    considérer que l'on doive attendre le tour de son adversaire pour jouer son coups
+    (action simultanée, multiples actions en-cours durant la seule action de l'autre...)?\r\n\r\nA
+    l'échelle d'une vie, peut-on mettre une partie en pause?\r\n\r\nA l'échelle d'une
+    vie, sachant les multiples jeux auxquelles on se doit ou choisit de jouer, est-il
+    possible de s'inscrire dans tout les tournois?\r\n\r\nIl existe d'autre part différentes
+    versions d'échiquier selon la culture des adversaires que l'on rencontre.\r\n\r\nConclusion:\r\n\r\nApprendre
+    à ses enfants dès leur plus jeune âge à jouer aux échecs peut être une façon de
+    leur apprendre à se débrouiller dans la vie.\r\n\r\nNe pas oublier de leur apprendre
+    le maximum de langue étrangère.\r\n\r\nNe pas oublier de mettre beaucoup d'argent
+    de côté pour leur payer les différents voyages qui leur permettront de découvrir
+    différentes cultures."
+- id: 377
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2011-01-25 20:06:24 +0100'
+  date_gmt: '2011-01-25 20:06:24 +0100'
+  content: "<strong>@Silas</strong> :\r\n\r\nTout d'abord merci pour le lien, j'irais
+    consulter ce site sans faute.\r\n\r\nSe remettre en question tout en avançant
+    et en affinant sa connaissance de soi me parait sain. La fierté est un sentiment
+    positif tant qu'il est bien placé, l'orgueil et les dérives que vous citez se
+    rapportant selon moi à cette citation commune sur la culture \"moins on en a,
+    plus on l'étale\".\r\n\r\nConcernant l'écriture, bien avant l'émergence des blogs
+    et même de disposer d'un accès Internet, j'avais un \"grimoire\", un gros cahier
+    rempli de textes divers et variés que je rédigeais selon mes humeurs.\r\n\r\nRassurez-vous,
+    j'écris toujours pour moi. Point de démagogie sur ce blog. Point de courrier bloggé.
+    Je ne cherche pas à plaire ni à être lue, d'ailleurs je le suis assez peu. Il
+    m'arrive fréquemment de penser mes articles durant la journée, de prendre des
+    notes pour la rédaction de textes importants. Mais je vous avoue que le support
+    numérique offre une liberté dont j'ai maintenant beaucoup de mal à me passer.\r\n\r\nUn
+    netbook serait peut être un bon compromis? Tapoter en sirotant un café dans une
+    zone wifi? Qu'en pensez-vous? :)"
+- id: 378
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2011-01-26 14:10:33 +0100'
+  date_gmt: '2011-01-26 14:10:33 +0100'
+  content: "<strong>@Karleman</strong> :\r\n\r\nLe soucis c'est la confiance \"à retrouver\"
+    et non pas \"à développer\". Comment faire confiance après avoir été trahie? Est-ce
+    seulement possible?\r\n\r\nEt si ça l'est, comment retrouver une entière confiance
+    quand la personne en face apeure au lieu de rassurer et d'aider à retrouver une
+    stabilité perdue?\r\n\r\nVoilà ce qui me perturbe. Je ne demande qu'à faire confiance,
+    apaiser mes craintes, me stabiliser. Feels like home. Me sentir chez moi à nouveau.
+    Mais je ne suis pas soutenue sur ce chemin sinueux. Sciemment. Et peu importe
+    mes appels à l'aide."
+- id: 381
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2011-01-26 17:45:01 +0100'
+  date_gmt: '2011-01-26 17:45:01 +0100'
+  content: "<strong>@M.R.</strong> :\r\n\r\nCitation tout à fait à propos, oui tout
+    se transforme. Éros? Le trouver ou le retrouver. Oui, je l'espère aussi. Trop
+    de doutes ces derniers temps pour laisser éclater une joie prématurée, afficher
+    un amour sans faille et rêver d'avenir.\r\n\r\nJ'ai connu ça un jour, je ne demande
+    qu'à le vivre à nouveau. Dommage que cela ne dépende pas que de moi. Doutes et
+    frustrations. J'espère que ce ne sera pas là mon programme du mois de février.
+    La Saint Valentin me portera peut être chance.\r\n\r\nWait and see. Wait and read.\r\n\r\nMais
+    pas trop longtemps quand même, je ne suis pas patiente  :)"
+- id: 385
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2011-01-26 19:33:56 +0100'
+  date_gmt: '2011-01-26 19:33:56 +0100'
+  content: "Je comprends un peu... je crois... ton ressenti.\r\nNous en avons parlé.
+    J'ai été également trahi et j'ai mal, comme toi... \r\nPuissions nous un jour
+    guérir, chère Zinzoline. \r\nJe le souhaite pour toi... et égoïstement, un peu
+    pour moi.\r\nPuis je me permettre de déposer un baiser à ta main gauche ? (celle
+    du coeur)\r\nAmitiés"
+- id: 386
+  author: David Blaine
+  author_email: adrien_guillen@hotmail.fr
+  author_url: ''
+  date: '2011-01-26 22:49:25 +0100'
+  date_gmt: '2011-01-26 22:49:25 +0100'
+  content: Non.
+- id: 392
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2011-01-28 09:15:19 +0100'
+  date_gmt: '2011-01-28 09:15:19 +0100'
+  content: "Mademoiselle Z,\r\n\r\nLe lundi 11 octobre 2010, un peu après minuit,
+    vous avez publié \"Ce n'était pas le moment\"...\r\nSeriez-vous capable de tout
+    brûler ? Je veux dire détruire la totalité de ce qui vous a permis d'écrire ce
+    texte ?\r\nTout ? Vraiment tout ?... L'odeur du bar parisien... le goût de son
+    baiser... sa main sur votre joue... le doute qui vous a envahi alors que lui semblait
+    si sûr de ses sentiments et puis... et puis... son sourire... oui... son sourire
+    aussi... enfin tout brûler quoi ! Jusqu'aux souvenirs...\r\n\r\nEtes-vous si sûre
+    de pouvoir tout effacer ?\r\n\r\nPour répondre un peu à votre question : Wi-Fi
+    c'est à distance mais sans fil... sans fil mais à distance... \r\nDès que la distance
+    s'amenuise, les fils et les liens se tissent irrémédiablement. D'ailleurs, à distance
+    quasi nulle, je me demande à quoi sert le sans fil ?\r\nLibre mais seul(e), seul(e)
+    mais libre...\r\n\r\nJe ne sais écrire qu'avec un stylo et du papier, parce que
+    je ne peux rien effacer, seulement raturer... rayer..., mais sous la rature...
+    je peux toujours relire. Toujours...\r\n\r\nJe vous embrasse et belle journée
+    à vous.\r\n\r\nSilas..."
+- id: 393
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2011-01-28 10:09:16 +0100'
+  date_gmt: '2011-01-28 10:09:16 +0100'
+  content: "M.R. - Le casting me semble bien intéressant et la pièce serait un tragi-comédie
+    :)\r\nMais je ne jouerai pas dans cette pièce là. Non pas que Mlle Zinzoline soit
+    dénuée d'intérêt à mes yeux, bien au contraire; mais par respect pour elle et
+    ses sentiments.\r\nJ'ai beaucoup de respect pour elle et je pense qu'elle le sait.
+    Je respecte ses doutes, ses souffrances.\r\nJe ne veux pas dire que tu n'en as
+    pas pour elle. Tu essayes, et c'est noble de ta part, d'adoucir l'ambiance. \r\nMoi
+    je joue ma tragédie. C'est une pièce, un one man show plutôt, et il ne se conjugue
+    pas... plutôt plus.\r\nAmitié."
+- id: 398
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2011-01-29 14:27:27 +0100'
+  date_gmt: '2011-01-29 14:27:27 +0100'
+  content: "<strong>@Karleman</strong> : J'ai longtemps pensé que les blessures d'amour
+    ne pouvaient être guéries que par celle ou celui qui en avait été la cause. Un
+    peu comme si le bourreau était à la fois le sauveur. Utopie? Je te souhaite en
+    tout cas de jouer bientôt une pièce avec plusieurs acteurs. Le one man show, c'est
+    certes intéressant. Mais frustrant à la longue.\r\n\r\n<strong>@David Blaine</strong>
+    :  :kiss: \r\n\r\n<strong>@Silas </strong>: Non bien sûr je ne souhaite rien effacer.
+    Mais le texte que vous évoquez n'est que pure fiction. Bien sûr les souvenirs,
+    les expériences de vie, les espoirs alimentent l'écriture.\r\n\r\nJe comprends
+    et connais le charme de l'écriture papier, charme inexistant via clavier. Mais
+    les deux peuvent sûrement se compléter."
+- id: 400
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2011-01-29 19:15:37 +0100'
+  date_gmt: '2011-01-29 19:15:37 +0100'
+  content: "Je pense que certaines histoires ont une fin. \r\nConcernant celle que
+    j'ai vécu, je me dois de tourner la page.\r\nUne autre histoire plus vraie? Peut-être
+    mais je ne sais quand et je ne sais si j'en ai l'envie.\r\nMerci pour ta gentillesse.
+    Bonne soirée.\r\n\r\nPS : Je te souhaite de trouver le vrai bonheur avec un homme
+    qui t'aimera sincèrement et avec toute la tendresse que tu mérites.\r\nAmitiés"
+- id: 413
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2011-02-04 12:57:18 +0100'
+  date_gmt: '2011-02-04 12:57:18 +0100'
+  content: "« - Dois-je avoir confiance en toi qui n’as pas confiance en moi ?\r\n\r\n
+    \ - Prends-en le risque. »\r\n\r\n  Heinrich von Kleist, La famille Schroffenstein.
+    \r\n\r\nExcellent week-end à vous, Melle Z...\r\n\r\nSilas"
+image: "/assets/img/BurN__by_fal_name.jpg"
+---
+<p style="text-align: justify;">Je suis fatiguée de douter. J'ai tendance à penser que lorsque l'on manque de confiance en l'autre cela vient souvent d'un manque de confiance en soi. Souvent. Donc pas toujours. Parce qu'honnêtement ma confiance en moi se porte à merveille.<a id="more"></a><a id="more-1693"></a></p>
+<p style="text-align: justify;">Par contre ma confiance en la gente masculine... Entre les vrais faux connards et les faux vrais salauds, difficile de s'y retrouver. Et franchement j'en ai marre de jouer la Sherlock. Une Sherlock en plus qui ne fait qu'écouter, lire, observer, examiner avec sa petite loupe et qui tire de multiples conclusions sans jamais dénicher aucune preuve. Sans chercher à en trouver aussi. Bref, du psychotage et de la torture de neurones inutile.</p>
+<p style="text-align: justify;">Certes, je pourrais faire de l'investigation plus agressive. D'ailleurs je suis tentée, oui, vraiment. Quelques clics, des discussions lancées, deux trois questions posées. Mais est-ce que j'ai vraiment envie de tomber si bas? Je ne crois pas. Je me suis toujours tenue. Tout finit toujours par se savoir comme on dit. Je n'aime pas jouer à celle qui sera la plus conne. Je ne serai pas une princesse capricieuse, je resterai une reine exigeante.</p>
+<p style="text-align: justify;">J'aurais sûrement à certains moments de ma vie pu conserver des avantages en entrant dans l'arène. Mais quel intérêt? Si je suis obligée de courber l'échine, c'est que le jeu n'en vaut pas la chandelle. Donc non je ne me déchausserai pas pour mettre un pied dans la boue. Parce que si effectivement je rentre dans le jeu, ce ne sera pas en tant que pion mais en tant que maîtresse. Et ce sera pour appeler les titans et faire imploser le plateau.</p>
+<p style="text-align: justify;">Me voilà donc revenue à un stade très proche du "Burn all" que j'ai déjà connu il y a quelques mois après le début de mon célibat. Ou le fameux "Allez tous vous faire enculer". Mais c'est un peu moins charmant écrit des doigts d'une jeune femme.</p>
+<p style="text-align: justify;">Les mots. Les mots. Je veux des mots. A partir du moment où je m'exprime face à des personnes capables d'utiliser un vocabulaire varié, je m'attends à recevoir des réponses explicites. Maniement de la langue française. Aurais-je du offrir des dictionnaires pour les fêtes? Dire les choses. Voilà mon minimum syndical.</p>
+<p style="text-align: justify;">En contrepartie je fais l'effort d'exprimer clairement mes attentes. Je pose des questions, ouverte, fermées, selon les circonstances. Et je développe, j'explique au besoin. C'est déjà bien non? Alors à chacun sa peine.</p>
+<p style="text-align: justify;">"Ça ne me convient pas." "Je veux que ça change." "J'attends que tu fasses ça pour moi." "Je veux que tu me dises si oui ou non." Quoi, c'est agaçant une personne qui n'aime pas les flous artistiques et qui reste droite dans ses bottes? Ah oui c'est embêtant de se retrouver face à un mur, face à ses contradictions. Mais ça permet de gagner tellement de temps ! Sans parler de la quiétude d'esprit.</p>
+<p style="text-align: justify;">Alors non je n'irai pas chercher de preuves, d'évidences. On me les apportera ou on s'en mordra les doigts. Je n'ai pas décidé en cette nouvelle année de renier celle que j'étais. Non Zinzoline ne sera pas corrompue. Je n'offrirai rien de bon coeur sur simple présomption d'innocence. Je ne nierai pas mes besoins. Je ne changerai pas pour épargner ou soulager. Donnant donnant. Oeil pour oeil. Dent pour dent.</p>
+<p style="text-align: justify;">Je veux, j'exige et si je n'ai pas, too bad.</p>
+<p style="text-align: justify;">Just burn.</p>

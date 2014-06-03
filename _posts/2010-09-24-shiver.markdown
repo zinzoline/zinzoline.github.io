@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: Shiver
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p>Tu m'élèves, tu me fais tomber,<br />Tu me fais sourire et froncer les
+  sourcils.<br />Tu es la reine des revirements, tu sais que c'est vrai.<br><br>Tu
+  me mâches et tu me craches,<br />Tu aimes le goût que je laisse dans ta bouche.<br
+  />Je te regarde, tu me regardes,<br />Ni toi ni moi ne savons quoi faire.<br /></p>"
+wordpress_id: 314
+wordpress_url: http://www.zinzoline.net/?p=314
+date: '2010-09-24 23:00:08 +0200'
+date_gmt: '2010-09-24 23:00:08 +0200'
+categories:
+- Poésies musicales
+tags:
+- coeur
+- passion
+- hésitation
+- corps
+- frissons
+- peau
+- lit
+comments: []
+image: "/assets/img/a_shiver_up_her_back_by_clarapalmer.jpg"
+---
+<p>Tu m'élèves, tu me fais tomber,<br />Tu me fais sourire et froncer les sourcils.<br />Tu es la reine des revirements, tu sais que c'est vrai.</p>
+<p>Tu me mâches et tu me craches,<br />Tu aimes le goût que je laisse dans ta bouche.<br />Je te regarde, tu me regardes,<br />Ni toi ni moi ne savons quoi faire.<br /><a id="more"></a><a id="more-314"></a></p>
+<p>Il n'y a peut être pas d'autre voie pour atteindre ton cœur<br />Donc je suppose que je vais devoir chercher un autre moyen d'y parvenir.<br />Je frissonne quand j'entends ton nom,<br />Je pense à toi mais ce n'est pas la même chose,<br />Je ne serais satisfait que lorsque que je serais sous ta peau.</p>
+<p>Immobilisé en pensant à toi, paralysé en te voyant,<br />Hypnotisé par les mots que tu prononces,<br />Qui sont faux mais je les crois quand même.</p>
+<p>Alors rejoins moi au lit il se fait tard, nous n'avons plus de temps à perdre,<br />Souviens toi du goût de mon corps, tu sens ton cœur s'emballer.</p>
+<p>Il n'y a peut être pas d'autre voie pour atteindre ton cœur<br /> Donc je suppose que je vais devoir chercher un autre moyen d'y parvenir.<br /> Je frissonne quand j'entends ton nom,<br /> Je pense à toi mais ce n'est pas la même chose,</p>
+<p>Je ne serais satisfait que lorsque que je serais sous ta peau<span>.</span></p>
+<div style="text-align: center;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="445" height="364" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/wXpS0eArMVQ?fs=1&amp;hl=fr_FR&amp;rel=0&amp;color1=0xcc2550&amp;color2=0xe87a9f&amp;border=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="445" height="364" src="http://www.youtube.com/v/wXpS0eArMVQ?fs=1&amp;hl=fr_FR&amp;rel=0&amp;color1=0xcc2550&amp;color2=0xe87a9f&amp;border=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<div style="text-align: center;"><em><br />Maroon 5 - Shiver</em></div>
+<div style="text-align: center;"><strong><em><br /></em></strong></div>

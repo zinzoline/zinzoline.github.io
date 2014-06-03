@@ -1,0 +1,159 @@
+---
+layout: post
+status: publish
+published: true
+title: In the End
+author:
+  display_name: Zinzoline
+  login: admin
+  email: mllezinzoline@hotmail.fr
+  url: http://www.zinzoline.net
+author_login: admin
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: "<p><em>Ça commence avec<br /></em><br /> Une chose, je ne sais pas pourquoi<br
+  /> Peu importe les efforts qu'on peut faire, ça ne change rien<br /> Garde ça à
+  l’esprit<br /> J'ai conçu cette rime pour expliquer en temps voulu<br /></p>"
+wordpress_id: 1970
+wordpress_url: http://www.zinzoline.net/?p=1970
+date: '2011-06-04 22:06:01 +0200'
+date_gmt: '2011-06-04 22:06:01 +0200'
+categories:
+- Poésies musicales
+tags:
+- confiance
+- temps
+- Linkin Park
+- In the End
+- efforts
+- importance
+- renoncement
+comments:
+- id: 1632
+  author: Karleman
+  author_email: karleman2@yahoo.fr
+  author_url: http://karleman.canalblog.com/
+  date: '2011-06-05 08:16:37 +0200'
+  date_gmt: '2011-06-05 08:16:37 +0200'
+  content: "C'est très difficile de tourner la page. \r\nTu sais qu'au fond de toi
+    tu dois continuer ton chemin.\r\nBon courage, chère Zinzoline. Je sais que tu
+    n'en manques pas.\r\nAmitié"
+- id: 1634
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2011-06-15 14:08:37 +0200'
+  date_gmt: '2011-06-15 14:08:37 +0200'
+  content: "Touchante DemoiZelle,\r\n\r\nVos mots d'amour blessé sonnent toujours
+    aussi justes et sensuels...\r\nPrenez soin de vous, jeune fille, la vie est longue
+    et vous réserve assurement de très belles surprises !\r\n\r\nJe vous embrasse.\r\n\r\nSilas..."
+- id: 1635
+  author: Zinzoline
+  author_email: mllezinzoline@hotmail.fr
+  author_url: http://www.zinzoline.net
+  date: '2011-06-19 00:05:20 +0200'
+  date_gmt: '2011-06-19 00:05:20 +0200'
+  content: "Merci. J'ai tellement de projets à réaliser en ce moment que j'ai rarement
+    le temps de penser à ces maux/mots. Tant mieux me direz-vous.\r\n\r\nMais inévitablement
+    ça revient. Quand il est tard et que je ne trouve pas le sommeil. Que je me relève
+    et que j'observe la nuit de mon balcon. Quand le silence se fait. Que mon appartement
+    est plongé dans le noir. Que le vent frais sur mes jambes dénudées me donne la
+    chair de poule.\r\n\r\nJe pense à lui. Comme si ma tête avait attendu que je sois
+    plus disponible pour me ramener à lui. Je me demande ce qu'il fait. Je me demande
+    si la caresse de sa main à elle sur sa peau lui fait le même effet que lui faisait
+    la mienne. Je ferme les yeux et je me rappelle cette dernière étreinte à la croisée
+    de deux couloirs de métro et cet adieu silencieux que j'ai prononcé en me réfugiant
+    une dernière fois dans ses bras.\r\n\r\nJe me demande s'il lui arrive parfois
+    aussi d'être à sa fenêtre, de fumer sa clope et de penser à moi. A nous. De se
+    souvenir. Est-ce qu'il a un pincement au coeur lui aussi?\r\n\r\nCes pensées arrivent
+    toujours trop rapidement pour que je puisse les contrer alors je referme la boite
+    de Pandore juste après. Mais il est aussi trop tard, car j'essuie encore parfois
+    une larme.\r\n\r\nQuelques minutes que je cède mal gré à ma peine, au manque de
+    ses mots, de son odeur, de ses lèvres. Au manque d'être sienne. Quelques minutes
+    qui me sont volées.\r\n\r\nEn fait le plus dur ce n'est pas le présent. Ce sont
+    tous les souvenirs de nous.\r\n\r\nSamedi soir, 2h du matin, je passe sur mon
+    blog, une chanson de ma playlist m'injecte une piqure de rappel et je me rends
+    compte que je porte son sweat. Je n'ai pas encore trouvé la force de le jeter,
+    de le donner ou de le cacher. Et les souvenirs viennent me piquer le coeur.\r\n\r\nJusqu'à
+    la prochaine fois. Mais ces flash-back s'espaceront. Je le sais. Même si c'est
+    dur de savoir que je vais me détacher de lui. Car c'est triste. Je porte encore
+    de si jolies couleurs en moi. Je les aimais bien moi, c'est jolies couleurs. Aimer
+    bien est un euphémisme.\r\n\r\nBonne nuit à vous mes amis et confidents."
+- id: 1637
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2011-07-01 10:02:50 +0200'
+  date_gmt: '2011-07-01 10:02:50 +0200'
+  content: "Mon Nota Bene: Dessein à réaliser...\r\n\r\n\"Nos vies pourraient se résumer,\r\nà
+    une multi-prise électrique:\r\n\r\nUne vision du monde excentrique?\r\n\r\nUne
+    lampe qu'on allume,\r\npour mieux voir dans le noir,\r\n\r\nUn ordinateur portable,\r\npour
+    se raccorder,\r\nà un vaste Journal populisme,\r\n\r\nEt ce, pour défier notre
+    obscurantisme.\r\n\r\nEt, enfin, un téléphone mobile,\r\nà dessein de rester disponible.\r\n\r\nQuand
+    nous lisons ton commentaire,\r\nTu nous donnes l'impression,\r\nD'avoir besoin
+    de nous taire, \r\nC'est un choix que nous respectons.\r\n\r\nDire ce que nous
+    en pensons,\r\nest un pari osé...\r\n\r\nLa liberté est-elle un frein à l'égalité?\r\n\r\nTu
+    parais être une lampe débranchée,\r\nEt ce Lui dont tu nous parles,\r\nL'ordinateur
+    portable auquel tu étais très liées,\r\nIl ne manquait plus que le vocable,\r\n\r\nPour
+    le lui dire...\r\nou\r\nPour t'affranchir?\r\n\r\nLa prise électrique n'est plus,
+    \r\nNe reste que l'empreinte de cette emprise,\r\n\r\nEssaye de changer d'angle
+    de vue,\r\nA nouveau, peut être, trouveras-tu une meilleure prise?\r\n\r\nAilleurs,
+    autre part, dans ce là-bas que tu ne connais pas...\"\r\n\r\nps:\r\n\r\nTu vois,
+    qu'avoir essayé différents catalogues, proposant différents articles, n'était
+    pas si vain, après tout.  \r\n\r\n:kiss:"
+- id: 1638
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2011-07-01 10:48:10 +0200'
+  date_gmt: '2011-07-01 10:48:10 +0200'
+  content: "ah oui, dernière chose:\r\n\r\ncomme le disait Louis chedid, \"on ne dit
+    jamais aux gens qu'on aime qu'on les aime\"\r\n\r\nCe n'est pas parce que personne
+    ne le dit qu'on ne le pense pas, nous t'aimons beaucoup petite luciole  :wink:"
+- id: 1639
+  author: Silas, Chien d'Utopie
+  author_email: silasutopiadog@gmail.com
+  author_url: ''
+  date: '2011-07-04 11:23:21 +0200'
+  date_gmt: '2011-07-04 11:23:21 +0200'
+  content: "MademoiZelle,\r\n\r\nQuelques pensées agréables voyagent vers vous sur
+    le dos d'une mouette...\r\n\r\nSilas"
+- id: 1641
+  author: M.R.
+  author_email: freerems@yahoo.fr
+  author_url: ''
+  date: '2011-07-08 09:56:58 +0200'
+  date_gmt: '2011-07-08 09:56:58 +0200'
+  content: "Merci Silas,\r\n\r\nCe Texte est un hommage à toutes les geekettes de
+    la terre qui se battent courageusement dans la vie malgré leur peine de coeur
+    et osent sortir de chez elle.\r\n\r\nC'est également ma façon de dire à tous les
+    geeks de sortir de chez eux pour rencontrer les geekettes, malgré leur phobie
+    du monde extérieur afin de transformer leur émo-phobie en émo-phillie ou émo-taxie
+    :)\r\n\r\nQuand j'étais sur Paris, un jour, j'ai emprunté le rer A pour rentrer
+    dans mon chez moi et ce jour-là je suis tombé sur ce couple: une très belle jeune
+    femme accompagnant amoureusement un jeune homme.\r\n\r\nLe jeune homme était mal
+    à l'aise parce qu'il ne se trouvait pas \"Beau\".\r\n\r\nJe l'ai regardé en souriant
+    et je voulais qu'il me regarde pour lui rendre hommage et lui dire par ce geste:\"hé
+    regarde nous au lieu de regarder tes pieds, tu es très beau et tu sais pourquoi?
+    parce que cette jeune femme est avec toi. Elle est ta garantie de ta beauté. Et
+    tu sais pourquoi? Parce qu'elle ne regarde que toi et te souris radieusement.
+    Pourquoi? parce que malgré ta phobie de la société, tu es sorti de ton antre pour
+    l'accompagner. Alors n'aies plus peur jeune homme et garde confiance ;)\"\r\n\r\nAu
+    nom de tous les geeks qui se cachent dans l'obscurité d'un écran LCD, sortez,
+    et montrez leur votre sourire pour l'avenir, votre confiance dans l'avenir, garant
+    d'un optimisme à l'avenir pour tout ce qui nous reste à venir...\r\n\r\nCourrier
+    d'un Terroriste du coeur, sur un blog dédié à la passion :p"
+image: "/assets/img/end____by_karil-d2xz1i6.jpg"
+---
+<p style="text-align: center;"><em>Ça commence avec<br /></em><br /> Une chose, je ne sais pas pourquoi<br /> Peu importe les efforts qu'on peut faire, ça ne change rien<br /> Garde ça à l’esprit<br /> J'ai conçu cette rime pour expliquer en temps voulu<br /><a id="more"></a><a id="more-1970"></a><br /> <em>Tout ce que je sais<br /></em><br /> Le temps est précieux<br /> Regarde-le s'écouler alors que le balancier oscille<br /> Regarde-le se décompter jusqu'à la fin de la journée<br /> La vie disparaît au rythme du tic-tac de l'horloge</p>
+<p> <em>C'est tellement irréel<br /></em><br /> Je ne suis pas sortie regarder ce qu'il y avait en bas<br /> Vois le temps qui s'échappe par la fenêtre<br /> Essayant de résister mais je ne savais même pas<br /> Que j'avais gaspillé tout ça simplement pour</p>
+<p> <em>Te voir partir<br /></em><br /> Je gardais tout à l'intérieur de moi<br /> Et peu importe que j'aies vraiment tout essayé<br /> Tout s'est effondré<br /> Ce que cela représentait pour moi<br /> Finira peut être par n'être plus qu'un souvenir<br /> D’une époque où</p>
+<p> <em>J'ai fait tant d'efforts</em><br /><em> Et je suis arrivée si loin</em><br /><em> Mais en fin de compte</em><br /><em>Ça n'a même pas d'importance</em><br /><em> J'ai dû tomber</em><br /><em> Pour tout perdre</em><br /><em> Mais en fin de compte</em><br /><em> Ça n'a même pas d'importance<br /></em><br /> Une chose, je ne sais pas pourquoi<br />Tous les efforts qu’on peut faire n’ont aucune importance<br />Garde ça à l’esprit<br /> J'ai conçu cette rime pour me souvenir à quel point</p>
+<p> <em><em>J'ai fait tant d'efforts</em><br /></em><br /> Malgré la façon dont tu te moquais de moi<br />En agissant comme si je faisais partie de tes biens<br /> En me souvenant de toutes les fois où tu t'es battu avec moi<br /> Je suis surprise que ce soit</p>
+<p> <em>Allé si loin<br /></em><br /> Les choses ne sont plus ce qu'elles étaient<br /> Tu ne m'aurais même plus reconnue<br /> Si tu n'avais pas su que j'étais de retour<br /> Mais tout me revient</p>
+<p> <em>En fin de compte<br /></em><br /> Tu gardais tout à l'intérieur de toi<br />Et peu importe que j'aies vraiment tout essayé<br /> Tout s'est effondré<br /> Ce que cela représentait pour moi<br /> Finira peut être par n'être plus qu'un souvenir<br /> D’une époque où</p>
+<p style="text-align: center;">J'ai fait tant d'efforts<br />Et je suis arrivée si loin<br />Mais en fin de compte<br />Ça n'a même pas d'importance<br />J'ai dû tomber<br />Pour tout perdre<br />Mais en fin de compte<br />Ça n'a même pas d'importance</p>
+<p> <em>J'avais mis ma confiance en toi</em><br /><em> Poussée aussi loin que je puisse aller</em><br /><em> Et pour tout ça</em><br /><em> Il n'y a qu'une seule chose que tu devrais savoir</em></p>
+<p> J'ai fait tant d'efforts<br /> Et je suis arrivée si loin<br /> Mais en fin de compte<br /> Ça n'a même pas d'importance<br /> J'ai dû tomber<br /> Pour tout perdre<br /> Mais en fin de compte<br /> Ça n'a même pas d'importance</p>
+<p style="text-align: center;"><object width="450" height="286"><param name="movie" value="http://www.youtube.com/v/eVTXPUF4Oz4?version=3&amp;hl=fr_FR&amp;rel=0" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed type="application/x-shockwave-flash" width="450" height="286" src="http://www.youtube.com/v/eVTXPUF4Oz4?version=3&amp;hl=fr_FR&amp;rel=0" allowfullscreen="true" allowscriptaccess="always"></embed></object></p>
+<p style="text-align: center;"><em>Linkin Park - In the End</em></p>
