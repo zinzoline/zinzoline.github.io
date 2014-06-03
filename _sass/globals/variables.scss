@@ -1,0 +1,39 @@
+@import "globals/mixins";
+
+// Colors
+
+$gray-darker:            lighten(#000, 13.5%) !default; // #222
+$gray-dark:              lighten(#000, 20%) !default;   // #333
+$gray:                   lighten(#000, 33.5%) !default; // #555
+$gray-light:             lighten(#000, 60%) !default;   // #999
+$gray-lighter:           lighten(#000, 93.5%) !default; // #eee
+
+$title-color:  #fff;
+$header-bg:    #6c0277;
+$nav-color:    $header-bg;
+$nav-bg:       #b73ec3;
+$body-bg:      #3e0144;
+$text-color:   #3a4145;
+$post-bg:      #f7f7f7;
+$footer-color: #fff;
+$footer-bg:    #0e1215;
+
+// Global textual link color
+$link-color:       $nav-bg;
+$link-hover-color: lighten($link-color, 15%);
+
+// Typography
+$font-family-base: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+$font-size-base:   14px;
+
+//** Unit-less `line-height` for use in components like buttons.
+$line-height-base:        1.428571429; // 20/14
+//** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
+$line-height-computed:    floor(($font-size-base * $line-height-base)); // ~20px
+
+//** Blockquote small color
+$blockquote-small-color:      $gray-light;
+//** Blockquote font size
+$blockquote-font-size:        ($font-size-base * 1.25);
+//** Blockquote border color
+$blockquote-border-color:     $nav-bg;

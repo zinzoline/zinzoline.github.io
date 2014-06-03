@@ -1,0 +1,105 @@
+@import "globals/variables";
+
+.post {
+  max-width: 830px;
+  margin: 40px auto;
+  background-color: $post-bg;
+  box-sizing: border-box;
+}
+
+.post-image {
+  img {
+    width: 100%;
+  }
+}
+
+.post-header {
+  padding: 30px 45px 0;
+}
+
+.post-date {
+  font-weight: 700;
+  color: #9eabb3;
+  text-transform: uppercase;
+}
+
+.post-title {
+  font-size: 38px;
+}
+
+.post-excerpt,
+.post-content,
+.post-footer {
+  padding: 0 45px 40px;
+}
+
+.post-excerpt {
+  > p {
+    margin-top: 17px;
+    font-size: 17px;
+  }
+}
+
+.post-content {
+  font-size: 19px;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 30px 0;
+  }
+
+  p,
+  ul,
+  ol {
+    margin-bottom: 30px;
+  }
+
+  ul ul,
+  ul ol,
+  ol ul,
+  ol ol {
+    margin-bottom: 0;
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+.post-list {
+  .post-header {
+    text-align: center;
+  }
+}
+
+.post-show {
+  position: relative;
+
+  .post-title {
+    margin-bottom: 30px;
+  }
+}
+
+.post-share {
+  position: absolute;
+  top: 46px;
+  right: 45px;
+
+  a {
+    display: inline-block;
+    color: #fff;
+    font-size: 35px;
+    width: 50px;
+    text-align: center;
+    background-color: $nav-bg;
+  }
+}
+
+#disqus_thread {
+  padding-top: 40px;
+  border-top: #EBF2F6 1px solid;
+}

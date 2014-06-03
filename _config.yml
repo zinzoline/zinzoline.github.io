@@ -1,0 +1,28 @@
+# Site settings
+title: Zinzoline
+username: zinzoline
+description: "La passion est le sexe de l'âme"
+
+baseurl: ""
+#url: "http://zinzoline.net"
+
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+paginate: 5
+
+# Assets
+sass:
+  sass_dir: _sass
+#  style: :compressed
+
+# Files to exclude
+exclude:
+  - README.md
+  - bundle
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - script
+  - assets/css/main.scss

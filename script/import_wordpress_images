@@ -1,0 +1,34 @@
+#!/usr/bin/env ruby
+require 'yaml'
+
+puts "Migrating images"
+Dir["_posts/*.markdown"].each do |file|
+  src = File.read(file)
+  if m = src.match(/src="(.*?\.(jpg|png))"/)
+    puts "Migrating #{file}"
+    img = m[1]
+    Dir.chdir('assets/img') { `curl -O #{img}` }
+    srcm = src.match(/^(?<front_matter>---\s*\n.*?\n?)^(---\s*$\n?)/m)
+    contents = srcm.post_match
+    front_matter = YAML.load(srcm[:front_matter])
+    File.open("#{file}", 'w') do |new_file|
+      front_matter['image'] = "/assets/img/#{File.basename(img)}"
+      excerpt = front_matter['excerpt']
+      if fmm = excerpt.match(/(?<before>.*)<img.*?\/>(?<after>.*)/m)
+        excerpt = "#{fmm[:before]}#{fmm[:after]}"
+      end
+      excerpt.gsub!(/[\r\n]/, '')
+      excerpt.gsub!("&nbsp;", " ")
+      excerpt.gsub!(/(<\/p>|<\/div>)(<p.*?>|<div.*?>)/, '<br><br>')
+      excerpt.gsub!(/<p.*?>|<\/p>|<div.*?>|<\/div>/, '')
+      excerpt = "<p>#{excerpt}</p>"
+      excerpt.gsub!(/<p>(\s*<br>\s*)+/, '<p>')
+      excerpt.gsub!(/(\s*<br\/*>\s*)+<\/p>/, '<\p>')
+      front_matter['excerpt'] = excerpt
+      new_file.puts front_matter.to_yaml
+      new_file.puts "---"
+      new_file.puts contents.gsub(Regexp.new(".*#{Regexp.escape(img)}.*\n"), "")
+    end
+  end
+end
+puts "Done"

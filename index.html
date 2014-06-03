@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+  <article class="post post-list">
+    {% if post.image %}
+      <div class="post-image">
+        <img src="{{ post.image }}">
+      </div>
+    {% endif %}
+    <header class="post-header">
+      <time class="post-date" datetime="{{ post.date | date: "%Y-%m-%-d" }}">{{ post.date | date: "%-d %b %y" }}</time>
+      <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+    </header>
+    <div class="post-excerpt">{{ post.excerpt }}</div>
+  </article>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>

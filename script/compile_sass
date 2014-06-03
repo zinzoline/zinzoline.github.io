@@ -1,0 +1,10 @@
+#!/bin/sh
+# Usage: script/compile_sass
+# Compile SASS files
+set -e
+
+echo "Compiling main.scss"
+
+bundle exec sass assets/css/main.scss assets/css/main.min.css -I _sass --style compressed
+
+echo "Done"

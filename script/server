@@ -1,0 +1,7 @@
+#!/bin/sh
+# Usage: script/server
+# Start Jekyll
+set -e
+
+echo "Starting server."
+bundle exec jekyll serve --port 4001 --watch
