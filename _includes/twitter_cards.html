@@ -11,7 +11,7 @@
 {% if page.description %}
   <meta property="twitter:description" content="{{ page.description }}">
 {% elsif page.excerpt %}
-  <meta property="twitter:description" content="{{ page.excerpt }}">
+  <meta property="twitter:description" content="{{ page.excerpt | strip_html }}">
 {% else %}
   <meta property="twitter:description" content="{{ site.description }}">
 {% endif %}
