@@ -1,0 +1,19 @@
+{% if page.image %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/header.png">
+{% endif %}
+
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+
+{% if page.description %}
+  <meta property="twitter:description" content="{{ page.description }}">
+{% elsif page.excerpt %}
+  <meta property="twitter:description" content="{{ page.excerpt }}">
+{% else %}
+  <meta property="twitter:description" content="{{ site.description }}">
+{% endif %}
+
+<meta name="twitter:creator" content="@{{ site.twitter }}">

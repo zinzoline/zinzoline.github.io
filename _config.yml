@@ -1,16 +1,17 @@
 # Site settings
 title: Zinzoline
-username: zinzoline
 description: "La passion est le sexe de l'âme"
-
 baseurl: ""
-#url: "http://zinzoline.net"
+url: "http://zinzoline.github.io"
 
-permalink: /:title/
+twitter: mllezinzoline
 
-# Build settings
+timezone: Europe/Paris
+
 markdown: kramdown
 paginate: 5
+
+permalink: /:title/
 
 # Assets
 sass:

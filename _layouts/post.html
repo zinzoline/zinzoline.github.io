@@ -19,10 +19,10 @@ layout: default
 
   <footer class="post-footer">
     <div class="post-share">
-      <a href="https://www.facebook.com/sharer/sharer.php" title="Share on Facebook" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
         <i class="fa fa-facebook"></i>
       </a>
-      <a href="http://twitter.com/share?text={{ page.title }}" title="Share on Twitter" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <a href="http://twitter.com/share?text={{ page.title }}&via={{ site.twitter }}" title="Share on Twitter" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
         <i class="fa fa-twitter"></i>
       </a>
     </div>
