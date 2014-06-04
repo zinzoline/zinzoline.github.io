@@ -27,3 +27,62 @@ exclude:
   - Gemfile.lock
   - script
   - assets/css/main.scss
+
+# Prose config, see https://github.com/prose/prose/wiki/Prose-Configuration
+prose:
+  siteurl: "http://zinzoline.github.io"
+  media: assets/img
+  relativeLinks: http://zinzoline.github.io/links.jsonp
+  metadata:
+    _posts:
+      - name: categories
+        field:
+          label: Categories
+          element: select
+          placeholder: Select a category
+          options:
+            - name: Daily Planet
+              value: daily-planet
+            - name: Pink a boo
+              value: pink-a-boo
+            - name: Encore du travail ?
+              value: travail-travail
+            - name: Méninges
+              value: meninges
+            - name: Mi Fa
+              value: mi-fa
+            - name: Girls
+              value: girls
+            - name: Moodlight
+              value: moodlight
+            - name: Corpore sano
+              value: corpore-sano
+      - name: layout
+        field:
+          element: hidden
+          value: post
+      - name: title
+        field:
+          element: text
+          label: Title
+          value: ""
+      - name: excerpt
+        field:
+          element: textarea
+          label: Excerpt
+          value: ""
+      - name: author
+        field:
+          element: text
+          label: Author
+          value: Zinzoline
+      - name: comments
+        field:
+          element: checkbox
+          label: Comments Enabled
+          value: true
+      - name: tags
+        field:
+          element: text
+          label: Tags
+          value: ""
