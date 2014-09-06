@@ -16,7 +16,7 @@ permalink: /:title/
 # Assets
 sass:
   sass_dir: _sass
-#  style: :compressed
+  style: :compressed
 
 # Files to exclude
 exclude:
@@ -26,7 +26,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - script
-  - assets/css/main.scss
 
 # Prose config, see https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
