@@ -30,10 +30,15 @@ exclude:
 # Prose config, see https://github.com/prose/prose/wiki/Prose-Configuration
 prose:
   siteurl: "http://zinzoline.github.io"
-  media: assets/img
+  media: "assets/img"
   relativeLinks: http://zinzoline.github.io/links.jsonp
   metadata:
     _posts:
+      - name: image
+        field:
+          element: text
+          label: Image
+          value: ""
       - name: categories
         field:
           label: Categories
