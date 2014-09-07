@@ -12,7 +12,7 @@ author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
 excerpt:  « Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai
-  vu ça...<\p>
+  vu ça...
 wordpress_id: 2353
 wordpress_url: http://www.zinzoline.net/?p=2353
 date: '2012-09-03 00:12:15 +0200'
