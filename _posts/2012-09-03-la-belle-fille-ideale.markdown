@@ -11,7 +11,7 @@ author:
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
-excerpt: <p> « Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai
+excerpt:  « Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai
   vu ça...<\p>
 wordpress_id: 2353
 wordpress_url: http://www.zinzoline.net/?p=2353
@@ -186,35 +186,64 @@ comments:
     aux commentaires."
 image: "/assets/img/Lilith_by_sanfrancysco.jpg"
 ---
-<p> « Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai vu ça...</p>
-<p><a id="more"></a><a id="more-2353"></a></p>
-<p>Ce n'est pas faute de lui avoir dit : "Les beaux-parents ne m'aiment pas". Mais voilà, ils croient toujours qu'avec leurs parents (à eux) ce sera différent. A vrai dire je suis presque déçue d'avoir eu raison cette fois-ci, encore. Parce que ses amis aussi n'ont pas tari d'éloges sur ses parents "trop sympas". Cela aurait pu être l'exception qui confirme la règle parce qu'avec moi faut être cool et sympa. Et patient.</p>
-<p>Mon pauvre chéri, ça lui tenait à coeur en plus.</p>
-<p>"Mais pourquoi tu ne plairais pas aux parents ?". En voilà une question intéressante à laquelle j'ai bien du mal à répondre. Je pense que les parents veulent ce qu'il y a de mieux pour leurs rejetons. Force est de constater que je n'entre pas dans cette définition. Je vais vous livrer mes pistes de réflexion.</p>
-<p>Déjà je ne suis pas une femme au foyer. Je suis très bordélique, mais attention, un bordel organisé ! Dans mon appartement, en plus d'avoir un dressing minuscule (pas de place, j'y peux rien, payez moi un deux pièces), je prends plaisir à entretenir un tas de fringues dans lequel je pioche allègrement au quotidien.</p>
-<p>Mes amis savent quand ils s'assoient sur le canapé qu'ils risquent de voir la pile de vêtement posée sur le dossier les attaquer et de se retrouver avec un soutien-gorge à dentelles sur le nez.</p>
-<p>J'ai du repasser deux fois dans ma vie et encore, je compte large. Les tâches ménagères ne m'amusent pas. Bien sûr j'imagine que ça n'amuse pas grand monde, il faut bien s'y coller, c'est tout.</p>
-<p>Mais ma petite matière grise n'a malheureusement pas intégré ce concept "d'indispensable". Je trouve toujours mieux à faire et je procrastine à l'infini. Ce serait tellement plus simple si c'était de la mauvaise volonté. Il y aurait un quelconque espoir. Mais non. Je n'y pense pas une seule seconde.</p>
-<p>D'ailleurs je l'ai dit à mon amoureux, s'il espère vivre un jour avec moi, on se prive d'un restau par semaine pour payer une femme de ménage. Voyez comme je pense au bonheur de ma moitié, je ne peux pas être si mauvaise que ça après tout.</p>
-<p>Bref, je préfère de loin me passer de faire la cuisine et manger une mangue en guise de repas plutôt que de salir une cuisine qui risque fort de rester dans cet état très longtemps après mon passage.</p>
-<p>Oui une mangue peut me suffire. Parce qu'en plus de ça, laisser moi alourdir mon dossier, je suis végétarienne. Oui une vraie. Une chiante. Pas celle qui mange "quand même du poisson". Une végétarienne éthique en plus. La pire espèce.</p>
-<p>Ma chère belle-mère m'a parlé du manque de convivialité qu'occasionnait mon régime alimentaire. Et alors? Je ne mange pas d'animaux, je ne mange pas d'animaux, point. J'imagine que c'est vexant quand la belle-fille ne touche pas au rôti préparé avec amour, plat préféré du fiston et fierté de la famille, mais c'est comme ça.</p>
-<p>En plus les repas en famille... Chez moi ils ont toujours été synonymes de disputes, colères, tables renversées, couteaux volants et coups. Le pire moment de la journée. Alors vivre avec moi c'est accepter que je fasse mes propres courses, que je mange différemment et que je puisse certains soirs picorer des champignons devant la télé à 18h30 et décider de prendre ma douche à l'heure du repas.</p>
-<p>Pas de règles, pas d'habitudes. Vive l'improvisation !</p>
-<p>Manger en compagnie de ceux que j'aime ne me dérange pas. Je le fais, souvent. Me mettre à table "en famille" pour le repas dominical me file la nausée. Je n'ai qu'une envie : fuir ! Si en plus de ça on me reproche mes habitudes alimentaires et mon mutisme, la partie s'annonce mal.</p>
-<p>Ah oui mon mutisme. Je ne suis pas socialement correcte. Je suis une mowgli échappée de la jungle. C'est vrai que certaines compétences sociales me font défaut. Je ne sais pas m'extasier devant la beauté du parterre de marguerites ou de la nouvelle peinture du bureau. Je ne ressens pas le besoin de parler pour ne rien dire.</p>
-<p>Parler bien alors ? Ça dépend avec qui, à quel sujet et surtout si j'ai envie. On m'a reproché de ne pas me dévoiler mais je me dévoile si je veux d'abord.</p>
-<p>Raconté comme ça vous allez vous dire que je suis une jeune femme imbuvable mais non, même pas. En société je souris tout le temps, je suis de contact facile, je suis polie. Mais ça ne suffit pas. Je ne suis pas la belle-fille idéale. Et franchement, maintenant, je m'en fous.</p>
-<p>Me retrouver face à des critiques de la part de personnes qui ne me connaissent pas et me jugent par rapport à ce qu'ils considèrent comme étant bon ou mauvais m'agace certes, c'est normal. Mais ce n'est pas pour autant que je vais me flageller.</p>
-<p>Est-ce que je leur demande moi de me ressembler ? Non. Ça leur ferait pas de mal ceci dit. Ben oui, je suis "cool et sympa" moi et pour de vrai. Alors pourquoi on me demande à moi d'être différente de celle que je suis ? Je suis déçue de constater un tel manque de tolérance et ce de manière si fréquente.</p>
-<p>Et si mon copain devait douter de moi à cause de ce que pensent ses parents à mon sujet, tant pis pour lui. Un très bon ami me disait ce soir que je sous-estimais l'influence de la famille sur le couple. Sûrement. Je le conçois très mal. Moi ma famille c'est celle que j'ai choisie, comme Rémy. Je protège mes proches, comme une louve.</p>
-<p>Et d'ailleurs, chère belle-maman, sachez bien que si notre couple devait un jour devenir famille, il vous faudra arrêter de fantasmer sur l'idée d'une belle-fille repentante et faire profil bas pour espérer approcher de ma tanière.</p>
-<p>Je suis dure peut-être. Mais n'est-ce pas injuste, parce qu'on est l'élément rapporté, de devoir plaire ? Pourquoi les parents ne devraient pas plaire eux aussi ? Parce qu'ils étaient là en premier ? Eh bien non. Ça ne justifie pas tout.</p>
-<p>Je suis tombée amoureuse d'un homme, pas de ses parents. Je n'ai pas à me justifier, me défendre, me vendre, m'excuser d'être ce que je suis, ramper, pleurer, supplier.</p>
-<p>Quand mon copain m'a dit qu'il allait défendre ma cause je l'ai très mal pris. Défendre quoi ? Qui ? Pourquoi ? S'il doit défendre la cause de quelqu'un, c'est la cause de sa mère, qui s'est très mal comportée. N'échangeons pas les rôles je vous prie.</p>
-<p>Dans mon monde, on est d'égal à égal. Pas de passe droit. Ou si passe droit il y a, c'est dans le bon sens. Si mon fils me présente sa copine, sachant qu'il en est amoureux, je la jugerai sûrement moins durement qu'une inconnue, je serai plus patiente, bien plus à l'écoute. Au lieu d'agir comme ma belle-maman et répudier une inconnue au bout de deux jours.</p>
-<p>Reste à découvrir effectivement l'impact que cela peut avoir sur mon amoureux et sur notre couple. Ça dépendra de lui.</p>
-<p>En situation miroir, l'avis de ma mère ne remettrait jamais en question l'intérêt et le regard que je porte sur mon compagnon. Ceci étant dit, malgré la famille désastreuse dont j'ai hérité, ma mère n'aurait jamais fait un dixième de ce que la mère de mon copain a fait à mon égard.</p>
-<p>Comme quoi, les écorchés ne sont pas forcément plus mal élevés que les bien-vivants et les bien-pensants.</p>
-<p>Quoi qu'il en soit je ressors de cette rencontre avec le sentiment qu'on a tenté de m'infantiliser. Qu'une mère infantilise son garçon, passe encore. Mais moi j'ai passé l'âge des commentaires déplacés et des jugements à l'emporte pièce. Je suis une grande fille, merci bien.</p>
-<p>Si ce que je suis vous dérange, éloignez-vous. Mais en silence.</p>
+« Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai vu ça...
+
+Ce n'est pas faute de lui avoir dit : "Les beaux-parents ne m'aiment pas". Mais voilà, ils croient toujours qu'avec leurs parents (à eux) ce sera différent. A vrai dire je suis presque déçue d'avoir eu raison cette fois-ci, encore. Parce que ses amis aussi n'ont pas tari d'éloges sur ses parents "trop sympas". Cela aurait pu être l'exception qui confirme la règle parce qu'avec moi faut être cool et sympa. Et patient.
+
+Mon pauvre chéri, ça lui tenait à coeur en plus.
+
+"Mais pourquoi tu ne plairais pas aux parents ?". En voilà une question intéressante à laquelle j'ai bien du mal à répondre. Je pense que les parents veulent ce qu'il y a de mieux pour leurs rejetons. Force est de constater que je n'entre pas dans cette définition. Je vais vous livrer mes pistes de réflexion.
+
+Déjà je ne suis pas une femme au foyer. Je suis très bordélique, mais attention, un bordel organisé ! Dans mon appartement, en plus d'avoir un dressing minuscule (pas de place, j'y peux rien, payez moi un deux pièces), je prends plaisir à entretenir un tas de fringues dans lequel je pioche allègrement au quotidien.
+
+Mes amis savent quand ils s'assoient sur le canapé qu'ils risquent de voir la pile de vêtement posée sur le dossier les attaquer et de se retrouver avec un soutien-gorge à dentelles sur le nez.
+
+J'ai du repasser deux fois dans ma vie et encore, je compte large. Les tâches ménagères ne m'amusent pas. Bien sûr j'imagine que ça n'amuse pas grand monde, il faut bien s'y coller, c'est tout.
+
+Mais ma petite matière grise n'a malheureusement pas intégré ce concept "d'indispensable". Je trouve toujours mieux à faire et je procrastine à l'infini. Ce serait tellement plus simple si c'était de la mauvaise volonté. Il y aurait un quelconque espoir. Mais non. Je n'y pense pas une seule seconde.
+
+D'ailleurs je l'ai dit à mon amoureux, s'il espère vivre un jour avec moi, on se prive d'un restau par semaine pour payer une femme de ménage. Voyez comme je pense au bonheur de ma moitié, je ne peux pas être si mauvaise que ça après tout.
+
+Bref, je préfère de loin me passer de faire la cuisine et manger une mangue en guise de repas plutôt que de salir une cuisine qui risque fort de rester dans cet état très longtemps après mon passage.
+
+Oui une mangue peut me suffire. Parce qu'en plus de ça, laisser moi alourdir mon dossier, je suis végétarienne. Oui une vraie. Une chiante. Pas celle qui mange "quand même du poisson". Une végétarienne éthique en plus. La pire espèce.
+
+Ma chère belle-mère m'a parlé du manque de convivialité qu'occasionnait mon régime alimentaire. Et alors? Je ne mange pas d'animaux, je ne mange pas d'animaux, point. J'imagine que c'est vexant quand la belle-fille ne touche pas au rôti préparé avec amour, plat préféré du fiston et fierté de la famille, mais c'est comme ça.
+
+En plus les repas en famille... Chez moi ils ont toujours été synonymes de disputes, colères, tables renversées, couteaux volants et coups. Le pire moment de la journée. Alors vivre avec moi c'est accepter que je fasse mes propres courses, que je mange différemment et que je puisse certains soirs picorer des champignons devant la télé à 18h30 et décider de prendre ma douche à l'heure du repas.
+
+Pas de règles, pas d'habitudes. Vive l'improvisation !
+
+Manger en compagnie de ceux que j'aime ne me dérange pas. Je le fais, souvent. Me mettre à table "en famille" pour le repas dominical me file la nausée. Je n'ai qu'une envie : fuir ! Si en plus de ça on me reproche mes habitudes alimentaires et mon mutisme, la partie s'annonce mal.
+
+Ah oui mon mutisme. Je ne suis pas socialement correcte. Je suis une mowgli échappée de la jungle. C'est vrai que certaines compétences sociales me font défaut. Je ne sais pas m'extasier devant la beauté du parterre de marguerites ou de la nouvelle peinture du bureau. Je ne ressens pas le besoin de parler pour ne rien dire.
+
+Parler bien alors ? Ça dépend avec qui, à quel sujet et surtout si j'ai envie. On m'a reproché de ne pas me dévoiler mais je me dévoile si je veux d'abord.
+
+Raconté comme ça vous allez vous dire que je suis une jeune femme imbuvable mais non, même pas. En société je souris tout le temps, je suis de contact facile, je suis polie. Mais ça ne suffit pas. Je ne suis pas la belle-fille idéale. Et franchement, maintenant, je m'en fous.
+
+Me retrouver face à des critiques de la part de personnes qui ne me connaissent pas et me jugent par rapport à ce qu'ils considèrent comme étant bon ou mauvais m'agace certes, c'est normal. Mais ce n'est pas pour autant que je vais me flageller.
+
+Est-ce que je leur demande moi de me ressembler ? Non. Ça leur ferait pas de mal ceci dit. Ben oui, je suis "cool et sympa" moi et pour de vrai. Alors pourquoi on me demande à moi d'être différente de celle que je suis ? Je suis déçue de constater un tel manque de tolérance et ce de manière si fréquente.
+
+Et si mon copain devait douter de moi à cause de ce que pensent ses parents à mon sujet, tant pis pour lui. Un très bon ami me disait ce soir que je sous-estimais l'influence de la famille sur le couple. Sûrement. Je le conçois très mal. Moi ma famille c'est celle que j'ai choisie, comme Rémy. Je protège mes proches, comme une louve.
+
+Et d'ailleurs, chère belle-maman, sachez bien que si notre couple devait un jour devenir famille, il vous faudra arrêter de fantasmer sur l'idée d'une belle-fille repentante et faire profil bas pour espérer approcher de ma tanière.
+
+Je suis dure peut-être. Mais n'est-ce pas injuste, parce qu'on est l'élément rapporté, de devoir plaire ? Pourquoi les parents ne devraient pas plaire eux aussi ? Parce qu'ils étaient là en premier ? Eh bien non. Ça ne justifie pas tout.
+
+Je suis tombée amoureuse d'un homme, pas de ses parents. Je n'ai pas à me justifier, me défendre, me vendre, m'excuser d'être ce que je suis, ramper, pleurer, supplier.
+
+Quand mon copain m'a dit qu'il allait défendre ma cause je l'ai très mal pris. Défendre quoi ? Qui ? Pourquoi ? S'il doit défendre la cause de quelqu'un, c'est la cause de sa mère, qui s'est très mal comportée. N'échangeons pas les rôles je vous prie.
+
+Dans mon monde, on est d'égal à égal. Pas de passe droit. Ou si passe droit il y a, c'est dans le bon sens. Si mon fils me présente sa copine, sachant qu'il en est amoureux, je la jugerai sûrement moins durement qu'une inconnue, je serai plus patiente, bien plus à l'écoute. Au lieu d'agir comme ma belle-maman et répudier une inconnue au bout de deux jours.
+
+Reste à découvrir effectivement l'impact que cela peut avoir sur mon amoureux et sur notre couple. Ça dépendra de lui.
+
+En situation miroir, l'avis de ma mère ne remettrait jamais en question l'intérêt et le regard que je porte sur mon compagnon. Ceci étant dit, malgré la famille désastreuse dont j'ai hérité, ma mère n'aurait jamais fait un dixième de ce que la mère de mon copain a fait à mon égard.
+
+Comme quoi, les écorchés ne sont pas forcément plus mal élevés que les bien-vivants et les bien-pensants.
+
+Quoi qu'il en soit je ressors de cette rencontre avec le sentiment qu'on a tenté de m'infantiliser. Qu'une mère infantilise son garçon, passe encore. Mais moi j'ai passé l'âge des commentaires déplacés et des jugements à l'emporte pièce. Je suis une grande fille, merci bien.
+
+Si ce que je suis vous dérange, éloignez-vous. Mais en silence.
