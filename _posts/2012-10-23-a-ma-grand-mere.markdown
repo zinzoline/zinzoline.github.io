@@ -14,7 +14,7 @@ wordpress_id: 2385
 wordpress_url: http://www.zinzoline.net/?p=2385
 date: '2012-10-23 19:52:55 +0200'
 date_gmt: '2012-10-23 19:52:55 +0200'
-categories: daily-planet
+categories: moodlight
 tags: aurevoir, infini, grand-mère, famille, décès, au-delà, continuité
 comments:
 - id: 2143
@@ -54,10 +54,10 @@ comments:
 image: "/assets/img/paint_the_sky_by_bmjones.jpg"
 comments_enabled: true
 ---
-<p>&nbsp;</p>
-<p>Parce que je ne serai pas présente lors de l'enterrement. Parce que même si j'étais présente je ne prendrai pas la parole. Mais, et si... Voilà ce que j'aurais écrit.<a id="more"></a><a id="more-2385"></a></p>
-<p>&nbsp;</p>
-<p>Vous savez sûrement qui je suis, je ne reconnais pour ma part que quelques visages dans cette assemblée. Que savez-vous de moi ? Sûrement peu de choses et encore moins de vérités.</p>
+Parce que je ne serai pas présente lors de l'enterrement. Parce que même si j'étais présente je ne prendrai pas la parole. Mais, et si... Voilà ce que j'aurais écrit.
+
+Vous savez sûrement qui je suis, je ne reconnais pour ma part que quelques visages dans cette assemblée. Que savez-vous de moi ? Sûrement peu de choses et encore moins de vérités.
+
 <p>Je n'ai pas connu ma grand-mère ou si peu. De manière superficielle. Sociale. Conventionnelle. Pour les fêtes de famille.</p>
 <p>Je n'ai jamais été une petite-fille exemplaire. Je ne téléphonais pas, je ne venais pas. Et ce que j'écrivais au soir dans ma tête ne pouvait pas être couché sur le papier au petit matin.</p>
 <p>Pourquoi me demanderiez-vous ? Je ne sais pas moi-même, très honnêtement. Il y a toujours eu chez moi cette gêne, ce quelque chose qui fait que l'on remet au lendemain. Je n'osais pas. Je ne pouvais pas. C'était trop difficile.</p>
