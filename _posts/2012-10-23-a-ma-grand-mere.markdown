@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: "À ma grand-mère"
-author:
-  display_name: Zinzoline
-  login: admin
-  email: mllezinzoline@hotmail.fr
-  url: http://www.zinzoline.net
+author: Zinzoline
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
@@ -18,16 +14,8 @@ wordpress_id: 2385
 wordpress_url: http://www.zinzoline.net/?p=2385
 date: '2012-10-23 19:52:55 +0200'
 date_gmt: '2012-10-23 19:52:55 +0200'
-categories:
-- Ecrire et ressentir
-tags:
-- aurevoir
-- infini
-- grand-mère
-- famille
-- décès
-- au-delà
-- continuité
+categories: daily-planet
+tags: aurevoir, infini, grand-mère, famille, décès, au-delà, continuité
 comments:
 - id: 2143
   author: Karleman
@@ -64,6 +52,7 @@ comments:
   date_gmt: '2013-05-22 16:07:33 +0200'
   content: 'Triste mais magnifique hommage à ta grand mère.  :yes: Bravo'
 image: "/assets/img/paint_the_sky_by_bmjones.jpg"
+comments_enabled: true
 ---
 <p>&nbsp;</p>
 <p>Parce que je ne serai pas présente lors de l'enterrement. Parce que même si j'étais présente je ne prendrai pas la parole. Mais, et si... Voilà ce que j'aurais écrit.<a id="more"></a><a id="more-2385"></a></p>
