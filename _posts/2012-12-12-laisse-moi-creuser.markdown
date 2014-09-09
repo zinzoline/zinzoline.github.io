@@ -26,7 +26,8 @@ Tu es dépressive, tu devrais voir quelqu'un, tu n'as pas d'espoir, tu ne crois 
 
 Non c'est faux. Il s'est énervé vendredi devant mon entêtement à creuser ma propre tombe, à ne pas accepter de lâcher la pelle. Creuser, m'enterrer, remettre de la terre par-dessus le cercueil, ajouter une jolie pierre tombale et quelques fleurs.
 
-<p style="text-align: justify;">Pourquoi je fais ça ? Pour le plaisir de tester ses limites ? Sa patience ? L'exaspérer ? Créer un conflit ? Non. Absolument pas. Je ne suis pas maso. Je n'aime pas les disputes. Je n'aime pas souffrir et surtout pas faire du mal à une personne que j'aime.</p>
+Pourquoi je fais ça ? Pour le plaisir de tester ses limites ? Sa patience ? L'exaspérer ? Créer un conflit ? Non. Absolument pas. Je ne suis pas maso. Je n'aime pas les disputes. Je n'aime pas souffrir et surtout pas faire du mal à une personne que j'aime.
+
 <p style="text-align: justify;">Mais chaque jour que Dieu fait, je suis obligée d'être forte. Toujours et toujours plus.</p>
 <p style="text-align: justify;">Déjà je dois aider ma famille et mes parents, et à vrai dire, ce soir-là, après une dure journée de travail et avant de le voir, j'avais eu mes deux parents au téléphone, l'un après l'autre, et j'en étais ressortie nerveusement anéantie.</p>
 <p style="text-align: justify;">Je prends sur moi des heures durant, pour contrer les idées noires, rassurer, encourager, ne rien laisser paraître. Et ce parfois face à la violence, face à l'alcool, face à la véritable dépression.</p>
