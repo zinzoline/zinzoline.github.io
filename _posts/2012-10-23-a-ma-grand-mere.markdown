@@ -7,9 +7,9 @@ author: Zinzoline
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
-excerpt: "<p>Parce que je ne serai pas présente lors de l'enterrement. Parce que même
+excerpt: Parce que je ne serai pas présente lors de l'enterrement. Parce que même
   si j'étais présente je ne prendrai pas la parole. Mais, et si... Voilà ce que j'aurais
-  écrit.</p>"
+  écrit.
 wordpress_id: 2385
 wordpress_url: http://www.zinzoline.net/?p=2385
 date: '2012-10-23 19:52:55 +0200'
