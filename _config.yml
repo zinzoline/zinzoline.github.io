@@ -80,7 +80,7 @@ prose:
           element: text
           label: Author
           value: Zinzoline
-      - name: comments
+      - name: comments_enabled
         field:
           element: checkbox
           label: Comments Enabled
