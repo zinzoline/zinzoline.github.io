@@ -2,37 +2,30 @@
 layout: post
 status: publish
 published: true
-title: "Laisse-moi creuser"
+title: Laisse-moi creuser
 author: Zinzoline
 author_login: admin
-author_email: "mllezinzoline@hotmail.fr"
-author_url: "http://www.zinzoline.net"
-excerpt: "Les disputes. Ou comment l'univers peut parfois basculer si rapidement. Prendre du recul sur les raisons qui mènent à certains conflits. Trouver des réponses. Et après ?"
+author_email: mllezinzoline@hotmail.fr
+author_url: http://www.zinzoline.net
+excerpt: Les disputes. Ou comment l'univers peut parfois basculer si rapidement. Prendre
+  du recul sur les raisons qui mènent à certains conflits. Trouver des réponses. Et
+  après ?
 wordpress_id: 2414
-wordpress_url: "http://www.zinzoline.net/?p=2414"
-date: "2012-12-12 22:00:57 +0100"
-date_gmt: "2012-12-12 22:00:57 +0100"
-categories: 
-  - Amour toujours
-  - "daily-planet"
-tags: 
-  - couple
-  - espoir
-  - croire
-  - noirceur
-  - creuser
-  - résister
-  - présence
-  - "couple,espoir,croire,noirceur,creuser,résister,présence"
+wordpress_url: http://www.zinzoline.net/?p=2414
+date: '2012-12-12 22:00:57 +0100'
+date_gmt: '2012-12-12 22:00:57 +0100'
+categories: daily-planet
+tags: couple, espoir, croire, noirceur, creuser, résister, présence, couple,espoir,croire,noirceur,creuser,résister,présence
 comments: true
 image: "/assets/img/hurt_by_drixx_nudal-d4tcgst.jpg"
+comments_enabled: false
 ---
-
 Les disputes. Ou comment l'univers peut parfois basculer si rapidement. Prendre du recul sur les raisons qui mènent à certains conflits. Trouver des réponses. Et après ?
 
 Tu es dépressive, tu devrais voir quelqu'un, tu n'as pas d'espoir, tu ne crois en rien.
 
-<p style="text-align: justify;">Non c'est faux. Il s'est énervé vendredi devant mon entêtement à creuser ma propre tombe, à ne pas accepter de lâcher la pelle. Creuser, m'enterrer, remettre de la terre par-dessus le cercueil, ajouter une jolie pierre tombale et quelques fleurs.</p>
+Non c'est faux. Il s'est énervé vendredi devant mon entêtement à creuser ma propre tombe, à ne pas accepter de lâcher la pelle. Creuser, m'enterrer, remettre de la terre par-dessus le cercueil, ajouter une jolie pierre tombale et quelques fleurs.
+
 <p style="text-align: justify;">Pourquoi je fais ça ? Pour le plaisir de tester ses limites ? Sa patience ? L'exaspérer ? Créer un conflit ? Non. Absolument pas. Je ne suis pas maso. Je n'aime pas les disputes. Je n'aime pas souffrir et surtout pas faire du mal à une personne que j'aime.</p>
 <p style="text-align: justify;">Mais chaque jour que Dieu fait, je suis obligée d'être forte. Toujours et toujours plus.</p>
 <p style="text-align: justify;">Déjà je dois aider ma famille et mes parents, et à vrai dire, ce soir-là, après une dure journée de travail et avant de le voir, j'avais eu mes deux parents au téléphone, l'un après l'autre, et j'en étais ressortie nerveusement anéantie.</p>
