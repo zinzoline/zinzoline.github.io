@@ -3,30 +3,18 @@ layout: post
 status: publish
 published: true
 title: La belle-fille idéale
-author:
-  display_name: Zinzoline
-  login: admin
-  email: mllezinzoline@hotmail.fr
-  url: http://www.zinzoline.net
+author: Zinzoline
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
-excerpt:  « Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai
-  vu ça...
+excerpt: '"Tu verras chérie, mes parents sont trop cools !". Effectivement, j''ai
+  vu ça...'
 wordpress_id: 2353
 wordpress_url: http://www.zinzoline.net/?p=2353
 date: '2012-09-03 00:12:15 +0200'
 date_gmt: '2012-09-03 00:12:15 +0200'
-categories:
-- Faut qu'on parle
-tags:
-- couple
-- belle-fille
-- belle-mère
-- belle-famille
-- juger
-- critiquer
-- résistance
+categories: daily-planet
+tags: couple, belle-fille, belle-mère, belle-famille, juger, critiquer, résistance
 comments:
 - id: 1845
   author: Karleman
@@ -185,8 +173,9 @@ comments:
   content: "Bonjour MR,\r\nJe ne suis pas certain que quelqu'un s'intéresse vraiment
     aux commentaires."
 image: "/assets/img/Lilith_by_sanfrancysco.jpg"
+comments_enabled: false
 ---
-« Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai vu ça...
+"Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai vu ça...
 
 Ce n'est pas faute de lui avoir dit : "Les beaux-parents ne m'aiment pas". Mais voilà, ils croient toujours qu'avec leurs parents (à eux) ce sera différent. A vrai dire je suis presque déçue d'avoir eu raison cette fois-ci, encore. Parce que ses amis aussi n'ont pas tari d'éloges sur ses parents "trop sympas". Cela aurait pu être l'exception qui confirme la règle parce qu'avec moi faut être cool et sympa. Et patient.
 
