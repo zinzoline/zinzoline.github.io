@@ -28,7 +28,8 @@ Non c'est faux. Il s'est énervé vendredi devant mon entêtement à creuser 
 
 Pourquoi je fais ça ? Pour le plaisir de tester ses limites ? Sa patience ? L'exaspérer ? Créer un conflit ? Non. Absolument pas. Je ne suis pas maso. Je n'aime pas les disputes. Je n'aime pas souffrir et surtout pas faire du mal à une personne que j'aime.
 
-<p style="text-align: justify;">Mais chaque jour que Dieu fait, je suis obligée d'être forte. Toujours et toujours plus.</p>
+Mais chaque jour que Dieu fait, je suis obligée d'être forte. Toujours et toujours plus.
+
 <p style="text-align: justify;">Déjà je dois aider ma famille et mes parents, et à vrai dire, ce soir-là, après une dure journée de travail et avant de le voir, j'avais eu mes deux parents au téléphone, l'un après l'autre, et j'en étais ressortie nerveusement anéantie.</p>
 <p style="text-align: justify;">Je prends sur moi des heures durant, pour contrer les idées noires, rassurer, encourager, ne rien laisser paraître. Et ce parfois face à la violence, face à l'alcool, face à la véritable dépression.</p>
 <p style="text-align: justify;">Envers et contre tout/tous, depuis ce qui me paraît une éternité, depuis que mon monde est monde.</p>
