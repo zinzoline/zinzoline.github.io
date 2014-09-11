@@ -1,0 +1,64 @@
+---
+title: Se découvrir HPI à l'âge adulte
+image: assets/img/born_genius_by_blackjack0919-d4x6c2c.jpg
+categories: daily-planet
+layout: post
+excerpt: ''
+author: Zinzoline
+comments_enabled: '1'
+tags: adulte, surdoué, HPI, THQI, WAIS, psychologue, intelligence, test
+---
+Si j'ai voulu faire de cet article le premier article de mon nouveau blog, ce n'est pas par hasard. En effet, aujourd'hui j'ai changé de filtre. Bien sur le regard que l'on porte sur le monde se modifie tous les jours par rapport à ce que l'on apprend et la manière dont on évolue. Mais ce que j'ai appris sur moi n'est pas anodin. C'est un filtre important, c'est un filtre qui risque de changer, je l'espère, un certain nombre de choses dans ma vie et dans ma manière de percevoir le monde qui m'entoure.
+
+Il y a quelques mois je suis tombée par hasard sur un article sur Facebook qui parlait des adultes surdoués. Curieuse, j'ai cherché des informations sur le sujet. Il me semble que j'en avais déjà entendu parler mais je ne m'y étais jamais vraiment intéressé. J'ai lu beaucoup d'articles, j'ai acheté deux livres qui m'ont paru être un bon début pour appréhender le sujet. J'ai également consulter des forums. J'ai lu les témoignages d'adultes qui avait découvert leur précocité à un âge avancé. De la même manière que pour les articles et les livres que j'avais lus, je me suis retrouvée sans toutefois vraiment me reconnaître parfaitement.
+
+Sur certains points, oui. Effectivement j'ai trouvé des similitudes mais il est très difficile de réussir à s'identifier totalement au profil décrit par les psychologues. Ce sont des profils très complet qui brossent un portrait qui se veut le plus exhaustif possible. Il est donc évident qu'une personne surdouée aura certes certaines caractéristiques décrites, mais ne les aura pas toutes.
+
+Et surtout à la lecture de ces articles, de ces livres et témoignages, je me disais constamment que nous étions tous semblables et qu'après tout chacun devait sûrement se retrouver tout comme moi dans ces descriptions. Après tout tout ce qui y est décrit est parfaitement humain. En effet, je ne sais pas vous mais pour ma part dès que je lis un profil psychologique, j'ai l'impression de me reconnaître, peu importe le profil. Et puis je pense que nous aimons tous les articles qui parlent de psychologie, les articles dans lesquels nous pouvons nous comparer, nous reconnaître. C'est très amusant.
+
+Chez moi c'est aussi un peu comme lorsque je recherche des informations sur une maladie et que j'ai l'impression de souffrir de tous les maux du monde. Et dans le cas particulier d'une définition de profil psychologique, paradoxalement cela ne m'aide absolument pas à me définir mais a plutôt tendance à me disperser. Je croule sous le poids de toutes ces informations et au final je n'arrive plus à distinguer celles qui me correspondent vraiment.
+
+Et puis il y a aussi cette impression de ne pas être honnête envers soi-même. En effet, comment démêler le vrai du faux ? Comment savoir ce qui est vraiment inné, de ce qui est appris, de ce qui fait fantasmer, de ce qui est désiré, de ce qui est redouté ? J'ai souvent l'impression qu'à force de réfléchir sur moi-même je ne sais plus du tout qui je suis. Un peu comme les souvenirs. À force de faire l'effort d'essayer de se rappeler le plus de détails possibles, on finit par avoir l'impression d'avoir recréé ce souvenir et malheureusement d'avoir perdu ce qu'était la nature même de se souvenir car de nouvelles visualisations, de nouvelles créations ont pris la place des fantômes du passé. Note pour moi-même : réfléchir à au concept de réalité, "vous avez quatre heures".
+
+À la lecture de toute cette littérature scientifique, j'ai donc oscillé entre "mais c'est tout à fait moi » et « ah non pas du tout je fais fausse route». C'est assez déstabilisant. C'est très difficile de se sentir à la fois si différent et si commun. Je crois que je ne guérirai jamais de ma folle passion pour l'oxymore.
+Qui plus est chaque caractéristique dans laquelle on se reconnaît est une pierre supplémentaire sur le chemin de l'intuition que l'on pourrait être surdoué, et à l'inverse chaque caractéristique qui ne nous correspond pas est une pierre vers le chemin qui nous amène vers un diagnostic de normalité mais surtout dans mon cas de névrose. 
+
+Car au fond, je ne crois pas que l'espoir d'être surdoué est une envie de se sentir supérieur. En tout cas ce n'était pas mon cas. J'y ai simplement vu une explication à des manières d'être, des attitudes, des comportements. Et très honnêtement, il est évident que j'aurais préféré 1000 fois avoir un diagnostic de HPI  plutôt que l'on me dise que j'étais normale mais qu'il fallait que je cherche la source de mes difficultés dans des problèmes psychologiques. Parce qu'après tout si la seule chance pour moi de ne pas être bizarre était d'avoir un potentiel intellectuel plus élevé que la moyenne, alors cela me paraissait un sort bien plus enviable qu'une normalité névrosée.
+
+Et je pense que c'est un sentiment que beaucoup ont dû connaître. Cet espoir fou de s'entendre dire que non, nous ne sommes pas bizarres. Nous sommes juste différents. Que non nous ne sommes pas fous, nous avons juste un fonctionnement particulier.
+
+Cela ne signifie absolument pas que je n'ai aucun problème psychologique, qu'être suivie par un psychologue ne pourrait pas me faire du bien. Après tout, je suis humaine et je pense que je vis avec mon lot de névroses comme tout le monde. Mais je ne peux pas le nier, si ce sujet m'a intéressée, c'est parce que quelque part il a fait écho en moi. Étant dans une période de questionnement au sujet de ma vie professionnelle entre autres, je cherchais (et je cherche toujours) des réponses par rapport à mes difficultés au travail. 
+
+Je ferai un article un peu plus long sur les similitudes de mon caractère avec les caractéristiques des adultes surdoués. Mon but dans cet article de surtout de vous expliquer mon parcours.
+
+Tout ceci au final ce ne sont que des pistes. Consulter des articles, lire des livres, ne suffit absolument pas à poser un diagnostic. Le problème a été qu'une fois cette idée en tête, ce doute, j'ai eu besoin d'une réponse. Bien sûr, être HPI pouvait être une possibilité mais située en bas dans la liste. Cela m'est apparu comme un premier pas dans le monde de la psychologie.
+
+Grâce au forum, j'ai trouvé l'adresse d'une psychologue spécialisée et je me suis lancée. J'ai pris rendez-vous, j'ai attendu un mois. L'attente n'a pas été angoissante.
+En effet, j'avais passé tellement de temps à réfléchir à cette problématique qu'une fois décidée à passer le test et à vérifier par moi-même, je me suis sentie soulagée.
+Un peu comme si j'étais allée au bout de ma démarche alors qu'en fait ce n'était qu'un début.
+
+J'avais des questionnements assez légitimes. Je n'espérais pas forcément avoir un résultat très élevé, néanmoins j'espérais quand même pouvoir être rassurée sur mon potentiel intellectuel. Car oui cela m'arrive très souvent de me sentir stupide. De me sentir en décalage avec les autres, de ne pas les comprendre et de me rendre compte que je n'arrive pas à me faire comprendre. Ce test c'est un peu comme si on vous ouvrait le crâne et qu'on vous mettait la cervelle à nu. C'est un défi pour l'ego que d'accepter qu'une personne pose un diagnostic, note votre intelligence.
+
+J'avais très peur également du contact avec la psychologue. Surtout qu'il s'agit d'une psychologue spécialisée qui travaille avec des enfants et des adultes surdoués. J'ai eu peur qu'au premier regard elle se rende compte que je me trompais et que je n'avais pas à venir la consulter. Mais après tout, c'est un bilan comme un autre. Le test permet de mieux se comprendre. Je suis donc partie sur cette idée, je me suis rassurée en me disant qu'après tout il est compréhensible de se lancer dans une démarche pour mieux de connaître et que je n'avais pas avoir honte de m'adresser une professionnelle spécialisée.
+
+La veille au soir, bien sûr j'ai eu du mal à m'endormir. Je pensais au test, je pensais au résultat. C'est étrange de se rendre chez une psychologue pour passer un test de QI avec comme question : « Je ne crois pas être une personne à haut potentiel mais je me sens pas normale également, alors pouvez-vous m'aider à trouver qui je suis ? ». Bien sûr vos parents vous trouve intelligent/e. Et votre amoureux considère que vous n'êtes pas stupide. Et vos amis ne vous considèrent pas comme quelqu'un d'inutile. Mais de là à être surdoué...
+
+Vous ne trouverez pas de spoilers sur le test dans cet article car je ne souhaite en aucun cas fausser les résultats d'une personne qui souhaiterait le passer. C'est un test que l'on ne passe la plupart du temps qu'une fois dans sa vie et il me semble important de ne pas le pervertir. Et je recommande à toutes les personnes qui seraient intéressées par ce test de ne pas se renseigner à l'avance. En effet il est facile de trouver des informations sur Internet. J'en ai trouvées et cherchées moi-même après avoir passé le test pour essayer de mieux comprendre mes résultats. Mais si vous vous renseignez sur les différents exercices avant même d'avoir passé le test, vous aurez toujours un doute par rapport aux résultats annoncés par la psychologue. Et ça je ne vous le souhaite pas ! On doute déjà suffisamment quand on s'engage dans cette démarche.
+
+De mon côté j'ai essayé de passer ce test en mode raw. Je ne me suis préparée à rien. Je n'ai pas cherché d'informations. J'ai lu avec attention le ressenti des personnes qui avaient passé le test mais ça n'a pas été plus loin. Il vaut mieux découvrir les choses par soi-même et pouvoir juger véritablement de ses capacités quitte à s'en vouloir de faire des erreurs de mauvaise compréhension à cause du stress par exemple, plutôt que de tricher et de ne jamais avoir de réponse qui puisse être satisfaisante.
+
+Et des erreurs, j'en ai faites. Des choses très bêtes qui m'ont vraiment énervée sur le moment. Effectivement il y a une bonne partie de stress, d'angoisse face à l'inconnu. J'ai vraiment eu l'impression que mon résultat serait mauvais. Mais j'ai appris que mes exigences étaient tout à fait personnelles. Ce que je considérais comme facile ou comme difficile n'était pas véritablement la norme.
+
+Car mes résultats n'ont laissé aucun doute à la psychologue, 143 avec des résultats très homogène. Si je vous donne un chiffre exact c'est parce que je sais que certaines personnes sont en recherche de chiffres précis pour se situer. En prenant en compte les facteurs qui peuvent perturber la personne; on peut définir une marge de 138 à 148, tout en sachant que le teste mesure des QI jusqu'à 160. Effectivement, j'ai donc un QI très supérieur à la moyenne et comme me l'a dit la psychologue : « Non, Zinzoline vous n'êtes vraiment pas stupide ».
+
+Depuis j'essaye d'intégrer la chose, de digérer cette information, de définir ce que je suis censée en faire. J'ai remis le test en question, j'ai remis la psychologue en question. C'est vrai qu'il est très déstabilisant d'avoir un résultat aussi élevé quand on a l'impression d'avoir fait un test très simple. Trop simple. Bien sûr j'ai rencontré quelques difficultés sur le parcours mais si peu et une bonne partie de ces difficultés sont venues d'un manque d'attention ou d'un manque de compréhension ou de réflexion.
+
+J'avais donc à la fin du test plus l'impression d'avoir raté quelque chose qu'en temps normal j'aurais pu réussir facilement. Alors qu'en définitive j'ai réussi quelque chose de difficile. Comment comprendre ça ? Comment est-ce possible ? J'ai cette impression, cette sensation que la psycholoque s'est trompée de test. Qu'elle s'est trompée dans ses résultats. C'est très étrange.
+
+J'attends avec impatience le rapport complet que la psychologue va me faire parvenir par courrier. Vous n'aurez pas dans cet article de happy ending. Non, je voulais partager avec vous le début de ce parcours. Je voulais partager avec vous la genèse de cette réflexion. Comme je vous l'ai écrit un peu plus haut, je vous ferai un article sur les caractéristiques dans lesquelles je me suis reconnue par rapport à ceux que l'on attribue habituellement aux adultes surdoués. 
+
+Je ferai peut-être un autre article par rapport au bilan complet que j'aurais reçu. Et de manière générale je reviendrai très certainement dans d'autres articles sur cette problématique ou plutôt cette composante que je dois prendre en compte maintenant.
+
+Je souhaite bonne chance à toutes les personnes qui comme moi, que cela soit dans le cadre d'un diagnostic de haut potentiel ou tout simplement dans le cadre d'une recherche de soi, ont commencé également ce parcours. 
+
+Je leur souhaite beaucoup de courage et beaucoup de succès. À bientôt :)
