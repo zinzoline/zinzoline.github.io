@@ -3,14 +3,18 @@ layout: post
 status: publish
 published: true
 title: Et un jour...
-author: '{"display_name"=>"Zinzoline", "login"=>"admin", "email"=>"mllezinzoline@hotmail.fr",
-  "url"=>"http://www.zinzoline.net"}'
+author: Zinzoline
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
-excerpt: "<p>Relater les différentes étapes d'une descente en enfer est une expérience
+excerpt: Relater les différentes étapes d'une descente en enfer est une expérience
   intéressante. C'est un exercice que j'ai pratiqué, bien que j'aurais aimé ne pas
-  vivre cette (més)aventure amoureuse. Quoi que...</p>"
+  vivre cette (més)aventure amoureuse. Quoi que... Ce qui est sûr c'est que même si
+  aujourd'hui, et je parle bien de ce jour précis (ou de cette nuit) car je pourrais
+  changer d'avis, donc ce qui est sûr c'est que même si aujourd'hui j'ai la distance
+  nécessaire pour oser envisager l'intérêt d'une interminable traversée du désert,
+  je ne l'ai pas toujours eue. Et je pense que peu sont capables de voir la lumière
+  au bout du tunnel quand le coeur a trop saigné.
 wordpress_id: 2290
 wordpress_url: http://www.zinzoline.net/?p=2290
 date: '2012-03-12 23:36:37 +0100'
@@ -141,7 +145,7 @@ comments:
     te conseille de lire Euclidiennes d'Eugène Guillevic, pour plus de métaphores
     géométriques.\r\n\r\nAnd yet, I am out."
 image: "/assets/img/believe_by_mylandwonderland-d3gpyn5.jpg"
-comments_enabled: false
+comments_enabled: true
 ---
 Relater les différentes étapes d'une descente en enfer est une expérience intéressante. C'est un exercice que j'ai pratiqué, bien que j'aurais aimé ne pas vivre cette (més)aventure amoureuse. Quoi que... Ce qui est sûr c'est que même si aujourd'hui, et je parle bien de ce jour précis (ou de cette nuit) car je pourrais changer d'avis, donc ce qui est sûr c'est que même si aujourd'hui j'ai la distance nécessaire pour oser envisager l'intérêt d'une interminable traversée du désert, je ne l'ai pas toujours eue. Et je pense que peu sont capables de voir la lumière au bout du tunnel quand le coeur a trop saigné.
 
