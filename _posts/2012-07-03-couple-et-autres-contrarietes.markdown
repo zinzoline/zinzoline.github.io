@@ -3,18 +3,11 @@ layout: post
 status: publish
 published: true
 title: Couple et autres contrariétés
-author: '{"display_name"=>"Zinzoline", "login"=>"admin", "email"=>"mllezinzoline@hotmail.fr",
-  "url"=>"http://www.zinzoline.net"}'
+author: Zinzoline
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
-excerpt: '<p><span style="text-align: justify;">On aurait tort de croire que le couple
-  offre une paix à l''esprit et au coeur que le célibat leur refuse. Les questions
-  sont certes différentes mais ne sont pas moins présentes, en tout cas en ce qui
-  me concerne. En même temps j''ai de nouveau la bougeotte. J''ai envie de tout changer
-  et j''ai l''impression d''être une cocotte minute. Je tiens rarement en place. Allez,
-  petit bilan pour commencer avant de passer au coeur du sujet ? L''amour bien sûr,
-  encore et toujours.</span><\p>'
+excerpt: ''
 wordpress_id: 2336
 wordpress_url: http://www.zinzoline.net/?p=2336
 date: '2012-07-03 23:49:54 +0200'
@@ -47,7 +40,7 @@ comments:
     et que cela vous perturbe un peu !\r\n\r\nMais sur le fond... c'est beaucoup de
     bonheur, non ?\r\n\r\nAlors, profitez, Belle Luciole, pro-fi-tez !\r\n\r\nPensées...\r\nSilas..."
 image: "/assets/img/306993_443728278992617_35915856_n_large.jpg"
-comments_enabled: false
+comments_enabled: true
 ---
 On aurait tort de croire que le couple offre une paix à l'esprit et au coeur que le célibat leur refuse. Les questions sont certes différentes mais ne sont pas moins présentes, en tout cas en ce qui me concerne. En même temps j'ai de nouveau la bougeotte. J'ai envie de tout changer et j'ai l'impression d'être une cocotte minute. Je tiens rarement en place. Allez, petit bilan pour commencer avant de passer au coeur du sujet ? L'amour bien sûr, encore et toujours.
 
