@@ -3,11 +3,8 @@ layout: post
 status: publish
 published: true
 title: Chat perché
-author:
-  display_name: Zinzoline
-  login: admin
-  email: mllezinzoline@hotmail.fr
-  url: http://www.zinzoline.net
+author: '{"display_name"=>"Zinzoline", "login"=>"admin", "email"=>"mllezinzoline@hotmail.fr",
+  "url"=>"http://www.zinzoline.net"}'
 author_login: admin
 author_email: mllezinzoline@hotmail.fr
 author_url: http://www.zinzoline.net
@@ -16,16 +13,8 @@ wordpress_id: 2268
 wordpress_url: http://www.zinzoline.net/?p=2268
 date: '2012-02-20 17:59:53 +0100'
 date_gmt: '2012-02-20 17:59:53 +0100'
-categories:
-- Amour toujours
-tags:
-- doute
-- peur
-- bichettes
-- retraite
-- pause
-- protection
-- vacances
+categories: daily-planet
+tags: doute, peur, bichettes, retraite, pause, protection, vacances
 comments:
 - id: 1780
   author: Silas, Chien d'Utopie
@@ -56,8 +45,10 @@ comments:
     de haut...\r\nGalerie W, P'tit Poucet et la chaleur des étages en parquets boisés
     du St-Pierre, entre autres !\r\n\r\nBelle Journée à vous, Miss !"
 image: "/assets/img/cat_by_gokhangezici-d32lygs.jpg"
+comments_enabled: false
 ---
-<p style="text-align: justify;">Alerte rouge. Point break. Trop, pas assez. Et trop tard surtout.<a id="more"></a><a id="more-2268"></a></p>
+Alerte rouge. Point break. Trop, pas assez. Et trop tard surtout.
+
 <p style="text-align: justify;">C'est le bordel, stop, faut que je range. Et le seul moyen que je connaisse pour reprendre le contrôle de ma vie est de retrouver le contrôle du moindre de mes actes. Quand le matériel soigne l'immatériel. Etre un chef d'orchestre minitieux. Resserrer la vis. Devenir mon propre tyran.</p>
 <p style="text-align: justify;">Là c'est une nécessité, une urgence. Je me sens en danger, à cause de ce qui n'est pas fait, de ce qui n'est pas dit, pas assez. Il y avait un déséquilibre menaçant. Le voilà déclaré. Ce qui me fait peur est trop fort par rapport à ce qui me rassure. Je suis agressée de l'intérieur, envahie, vaincue. Comme une vilaine infection. Les boucliers naturels n'étaient pas suffisamment solides, place aux antibiotiques.</p>
 <p style="text-align: justify;">Je ne me sens pas à ma place. Mes interprétations sont négatives, les sentiments qui en découlent me blessent. J'ai conscience que je me fais certainement du mal toute seule, même si subjectivement ce sont les autres qui me paraissent hostiles.</p>
