@@ -3,12 +3,16 @@ title: Je ne coucherai pas avec toi
 image: assets/img/127a1832d636a75f5ee0484bcb7bad76.jpg
 categories: pink-a-boo
 layout: post
-excerpt: ''
+excerpt: Mon cher ex-amour, c'est avec un grand plaisir que je constate que tu es
+  venu à plusieurs reprises essayer de me convaincre que nous pourrions partager quelques
+  moments torrides sans autre préoccupation et il me semble que tu ne comprends pas
+  réellement le mot "non" ou plutôt que tu ne saisis pas les raisons qui le motivent.
+  Je te fais donc cadeau de cet article.
 author: Zinzoline
-comments_enabled: '1'
+comments_enabled: true
 tags: souvenir, rupture, tentative, espoir, sans issue, vain, tourner la page, echo
 ---
-Mon cher ex-amour, c'est avec plaisir que je constate que tu es revenu à plusieurs reprises essayer de me convaincre que nous pourrions partager quelques moments torrides sans autre préoccupation et il me semble que tu ne comprends pas réellement le mot "non" ou plutôt que tu ne saisis pas les raisons qui le motivent. Je te fais donc grâce de cet article.
+Mon cher ex-amour, c'est avec un grand plaisir que je constate que tu es venu à plusieurs reprises essayer de me convaincre que nous pourrions partager quelques moments torrides sans autre préoccupation et il me semble que tu ne comprends pas réellement le mot "non" ou plutôt que tu ne saisis pas les raisons qui le motivent. Je te fais donc cadeau de cet article.
 
 Tout d'abord s'il est bien de le préciser je suis amoureuse. Cela devrait être un argument suffisant mais allons plus loin. Imaginons donc que tu reviens me proposer cet arrangement à ton goût demain et que par un malheureux hasard je ne sois plus amoureuse.
 
