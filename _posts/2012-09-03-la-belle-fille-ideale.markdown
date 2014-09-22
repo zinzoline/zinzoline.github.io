@@ -173,7 +173,7 @@ comments:
   content: "Bonjour MR,\r\nJe ne suis pas certain que quelqu'un s'intéresse vraiment
     aux commentaires."
 image: "/assets/img/Lilith_by_sanfrancysco.jpg"
-comments_enabled: false
+comments_enabled: true
 ---
 "Tu verras chérie, mes parents sont trop cools !". Effectivement, j'ai vu ça...
 
