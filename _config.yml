@@ -75,6 +75,7 @@ prose:
           element: textarea
           label: Excerpt
           value: ""
+          remove_if_blank: true
       - name: author
         field:
           element: text
