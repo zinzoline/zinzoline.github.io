@@ -13,7 +13,7 @@ layout: default
       <time class="post-date" datetime="{{ post.date | date: "%Y-%m-%-d" }}">{{ post.date | date: "%-d %b %y" }}</time>
       <h2 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     </header>
-    <div class="post-excerpt"><p>{{ post.excerpt }}</p></div>
+    <div class="post-excerpt"><p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p></div>
   </article>
 {% endfor %}
 

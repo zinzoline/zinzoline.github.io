@@ -9,6 +9,7 @@ twitter: mllezinzoline
 timezone: Europe/Paris
 
 markdown: kramdown
+excerpt_separator: "\n"
 paginate: 5
 
 permalink: /:title/
