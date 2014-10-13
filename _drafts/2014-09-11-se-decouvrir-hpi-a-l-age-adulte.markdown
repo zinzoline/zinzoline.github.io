@@ -1,11 +1,11 @@
 ---
 title: Se découvrir HPI à l'âge adulte
-image: assets/img/born_genius_by_blackjack0919-d4x6c2c.jpg
+image: "/assets/img/born_genius_by_blackjack0919-d4x6c2c.jpg"
 categories: daily-planet
 layout: post
 excerpt: ''
 author: Zinzoline
-comments_enabled: '1'
+comments_enabled: true
 tags: adulte, surdoué, HPI, THQI, WAIS, psychologue, intelligence, test
 ---
 Si j'ai voulu faire de cet article le premier article de mon nouveau blog, ce n'est pas par hasard. En effet, aujourd'hui j'ai changé de filtre. Bien sur le regard que l'on porte sur le monde se modifie tous les jours par rapport à ce que l'on apprend et la manière dont on évolue. Mais ce que j'ai appris sur moi n'est pas anodin. C'est un filtre important, c'est un filtre qui risque de changer, je l'espère, un certain nombre de choses dans ma vie et dans ma manière de percevoir le monde qui m'entoure.
