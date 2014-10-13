@@ -3,7 +3,6 @@ title: Se découvrir HPI à l'âge adulte
 image: "/assets/img/born_genius_by_blackjack0919-d4x6c2c.jpg"
 categories: daily-planet
 layout: post
-excerpt: ''
 author: Zinzoline
 comments_enabled: true
 tags: adulte, surdoué, HPI, THQI, WAIS, psychologue, intelligence, test
