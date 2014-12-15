@@ -7,8 +7,7 @@ author: ''
 comments_enabled: true
 tags: ''
 ---
-**Warning - article avec des mots pas sympas à l'intérieur** 
-On dit "je n'aime pas" ! Combien de fois avez-vous entendu (ou prononcé) ce genre de conneries ? Oups, pardon, de réflexions venant d'une tiers personne, idées certes que vous ne partagez pas mais que vous respectez bien sûr, car chacun mérite que... STOOOOOOOP ! Ras le bol de ces fausses politesses handicapantes.
+**Warning : Article avec des mots pas sympas à l'intérieur**  On dit "je n'aime pas" ! Combien de fois avez-vous entendu (ou prononcé) ce genre de conneries ? Oups, pardon, de réflexions venant d'une tiers personne, idées certes que vous ne partagez pas mais que vous respectez bien sûr, car chacun mérite que... STOOOOOOOP ! Ras le bol de ces fausses politesses handicapantes.
 
 Je me suis heurtée à plusieurs reprises sur ce sujet avec pas mal de personnes et à chaque fois je me suis rendue compte (encore une fois) que j'étais face à des réflexions perroquets. Oui vous savez ce genre de phrases qu'on répète, parce qu'on nous les a dites et qu'on les a toujours entendues. On intègre et on recrache. Malgré tout j'ai déjà essayé de creuser un peu plus pour tenter de comprendre pourquoi il ne faut pas dire ce que l'on pense vraiment et surtout, de la manière dont ça nous convient.
 
