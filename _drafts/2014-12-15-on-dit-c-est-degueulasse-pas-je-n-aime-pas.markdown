@@ -1,0 +1,33 @@
+---
+title: On dit "c'est dégueulasse", pas "je n'aime pas"
+image: ''
+categories: daily-planet
+layout: post
+excerpt: ''
+author: ''
+comments_enabled: '0'
+tags: ''
+---
+On dit "je n'aime pas" ! Combien de fois avez-vous entendu (ou prononcé) ce genre de conneries ? Oups, pardon, de réflexions venant d'une tiers personne, idées certes que vous ne partagez pas mais que vous respectez bien sûr, car chacun mérite que... STOOOOOOOP ! Ras le bol de ces fausses politesses handicapantes.
+
+Je me suis heurtée à plusieurs reprises sur ce sujet avec pas mal de personnes et à chaque fois je me suis rendue compte (encore une fois) que j'étais face à des réflexions perroquets. Oui vous savez ce genre de phrases qu'on répète, parce qu'on nous les a dites et qu'on les a toujours entendues. On intègre et on recrache. Malgré tout j'ai déjà essayé de creuser un peu plus pour tenter de comprendre pourquoi il ne faut pas dire ce que l'on pense vraiment.
+
+Et la justification qui me hérisse le poil tant elle est stupide (oups, je faute encore) c'est que dire "je n'aime pas" montre bien qu'il s'agit de notre opinion personnelle (oui redondance mais il faut bien appuyer justement) alors que si on dit "c'est dégueulasse" ça pourrait laisser penser qu'on parle au nom de tous. Pardon ? Comment pourrait-on parler au nom de l'univers, de la France ou de notre classe de terminale ? Si je dis "c'est dégueulasse" c'est bien moi qui m'exprime et donc il s'agit bien de mon opinion et pas de celle d'un autre. Attendez juste une minute je reviens. ... ... Oui pas de soucis je suis bien seule dans ma tête et aucune entité métaphysique ne partage mon corps.
+
+Franchement, c'est quoi cet argument en carton ? A partir du moment où cela sort de ma bouche, il n'y a pas de confusion possible. Alors certes si je dis "tout le monde trouve ça dégueulasse" c'est différent. Ce serait bien trop général pour être vrai. Mais si je dis, en parlant des convives autour de la table qui m'auraient tous confié au préalable leur ressenti après dégustation de ce plat d'exception par exemple, si je dis donc "on trouve tous ici que c'est dégueulasse" je reste dans le vrai. Et vous conviendrez qu'il n'est pas difficile de différencier "c'est dégueulasse" de "on trouve tous ici que c'est dégueulasse". Et à la rigueur si on a un doute, on peut poser cette question étrange "tu parles pour qui là ?" à laquelle on recevra comme réponse tout stupide si l'interlocuteur est d'humeur caustique "bah euh... pour ton père bien sûr Luke !".
+
+Alors quoi ? En l'absence de "je" en début de phrase on instillerait le doute dans l'esprit de notre interlocuteur sur le fait qu'on ne fait qu'exprimer notre opinion ? Et donc ce précieux "je" lui permettrait de ne pas se sentir conspué par l'univers ? Alors ça doit fonctionner également quand je dis "C'est génial il fait beau !" non ? Pourtant personne ne me reprend pour m'expliquer que je devrais dire "Je suis contente qu'il fasse beau". Bah alors ? On est soupçonné de monopoliser la parole de l'univers uniquement quand ce que l'on dit est déplaisant ?
+
+Ou alors, petite idée comme ça, et si tout ça c'était juste des foutaises et qu'il s'agissait uniquement d'une vilaine politesse socialement correcte ? Mais alors quel besoin de la camoufler par un argument si stupide ? Comprenez bien que je ne suis pas en train de dire qu'il faut blesser les gens inutilement. Par contre, il faut savoir pourquoi on dit les choses et pourquoi on ne les dit pas. Dire "c'est dégueulasse" est certes un peu violent, mais alors on peut parfaitement dire "ce n'est pas très bon" non ? D'ailleurs je ne sais pas ce qui me vexerait le plus entre "ce n'est pas très bon" et "je n'aime pas" et franchement je m'en fous un peu.
+
+Apprendre aux enfants par exemple à ne pas faire de peine aux autres est important mais expliquons leur les choses clairement, rationnellement au lieu de leur dire que "c'est" traduit une parole de l'univers à la différence de "je". Et aussi apprenons à ne pas nous braquer parce qu'une personne exprime son opinion dans une forme qui a été étiquetée comme relevant d'une pensée totalitaire imposée car c'est idiot.
+
+Tout est dans le choix des mots, la tournure, le ton, l'intention. Alors s'il vous plait arrêtez de croire que vous cassez les autres ou que vous leur apprenez la politesse en leur expliquant que lorsqu'ils expriment des opinions négatives ils doivent bien faire attention à utiliser le "je" sinon on va pas comprendre qu'ils parlent avec leur bouche à eux ou tapent sur leur clavier avec leurs doigts à eux. Parce que d'une c'est une réflexion stupide et de deux vous ne faites que répéter une ordonnance sociale sans fondement.
+
+Et surtout réapprenons à exprimer notre opinion de la manière dont cela nous convient le mieux, en commençant avec "je", "c'est" ou même "cette bande d'enculés". Notre opinion n'engagera jamais que nous, il n'y a rien à craindre de ce côté là. Un petit kikoo aux twittos friands du "Mes tweets n'engagent que moi". C'est tellement triste d'avoir à préciser ce genre d'évidences. Encore, venant d'un patron d'une grande société je pourrais comprendre mais quand le quidam se sent obligé de préciser que ce qu'il dit n'engage que lui, avec en sous titre que cela n'a pas vraiment d'importance d'ailleurs, promis, ça en devient risible voire même franchement déprimant.
+
+Nous sommes dans une société où toute idée un tant soi peu virulente et affirmée est étiquettée comme étant "extrême" et jetée au panier. On parle pas avec les extrémistes, bouh l'extrémiste ! Vous pensez vraiment que les choses avancent et changent en restant dans le mou ? Aujourd'hui il faudrait tout respecter, tout accepter, penser mais pas trop fort, affirmer son opinion mais dire en même temps qu'on partage aussi celle de l'autre. On ne dit pas "c'est dégueulasse d'envoyer des bombes sur des enfants" mais "je n'aime pas qu'on envoie des bombes sur des enfants". Super !
+
+Arrêtons de nous cantonner à des territoires droites / gauches à l'image de la politique française, à savoir de faux clivages. Osons affirmer haut et fort nos idées, à dépasser les barrières de la politesse socialement acceptable qui ne fait qu'entraver les vrais débats, calmer les passions et faire perdurer le statu quo. Apprenons à dire que non "on ne respecte pas certaines idées". Le monde a besoin de citoyens militants, engagés, vrais et francs. 
+
+Alors pour 2015 on assume et on dit haut et fort "c'est dégueulasse putain de merde" ! (oui je pense à un prochain post sur l'utilisation des grossiertés)
