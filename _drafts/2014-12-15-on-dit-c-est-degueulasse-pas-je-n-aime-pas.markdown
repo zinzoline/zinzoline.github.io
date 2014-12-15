@@ -3,14 +3,13 @@ title: On dit "c'est dégueulasse", pas "je n'aime pas"
 image: ''
 categories: daily-planet
 layout: post
-excerpt: ''
 author: ''
-comments_enabled: '0'
+comments_enabled: true
 tags: ''
 ---
 On dit "je n'aime pas" ! Combien de fois avez-vous entendu (ou prononcé) ce genre de conneries ? Oups, pardon, de réflexions venant d'une tiers personne, idées certes que vous ne partagez pas mais que vous respectez bien sûr, car chacun mérite que... STOOOOOOOP ! Ras le bol de ces fausses politesses handicapantes.
 
-Je me suis heurtée à plusieurs reprises sur ce sujet avec pas mal de personnes et à chaque fois je me suis rendue compte (encore une fois) que j'étais face à des réflexions perroquets. Oui vous savez ce genre de phrases qu'on répète, parce qu'on nous les a dites et qu'on les a toujours entendues. On intègre et on recrache. Malgré tout j'ai déjà essayé de creuser un peu plus pour tenter de comprendre pourquoi il ne faut pas dire ce que l'on pense vraiment.
+Je me suis heurtée à plusieurs reprises sur ce sujet avec pas mal de personnes et à chaque fois je me suis rendue compte (encore une fois) que j'étais face à des réflexions perroquets. Oui vous savez ce genre de phrases qu'on répète, parce qu'on nous les a dites et qu'on les a toujours entendues. On intègre et on recrache. Malgré tout j'ai déjà essayé de creuser un peu plus pour tenter de comprendre pourquoi il ne faut pas dire ce que l'on pense vraiment et surtout, de la manière dont ça nous convient.
 
 Et la justification qui me hérisse le poil tant elle est stupide (oups, je faute encore) c'est que dire "je n'aime pas" montre bien qu'il s'agit de notre opinion personnelle (oui redondance mais il faut bien appuyer justement) alors que si on dit "c'est dégueulasse" ça pourrait laisser penser qu'on parle au nom de tous. Pardon ? Comment pourrait-on parler au nom de l'univers, de la France ou de notre classe de terminale ? Si je dis "c'est dégueulasse" c'est bien moi qui m'exprime et donc il s'agit bien de mon opinion et pas de celle d'un autre. Attendez juste une minute je reviens. ... ... Oui pas de soucis je suis bien seule dans ma tête et aucune entité métaphysique ne partage mon corps.
 
